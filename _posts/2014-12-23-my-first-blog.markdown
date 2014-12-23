@@ -15,7 +15,7 @@ categories: jekyll update
 
 3. 安装Github Windows客户端，并clone之前建的这个仓库
 
-4. 安装Ruby和Ruby的DevKit。安装DevKit的时候，可能需要自己改一下config.xml，在---后面增加引号里面的内容：
+4. 安装Ruby和Ruby的DevKit。安装DevKit的时候，可能需要自己改一下config.xml，在3个“-”下面增加引号里面的内容：
 
 	“ - C:/Ruby21-x64”
 
