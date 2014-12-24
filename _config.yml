@@ -2,7 +2,7 @@
 title: Teng Rui's Blog
 email: tengrui@live.cn
 description: > # this means to ignore newlines until "baseurl:"
-  这里是滕瑞的个人Blog，欢迎访问、订阅<S>和留言</S>。
+  这里是滕瑞的个人Blog，欢迎访问<S>和留言</S>。
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://tengrui.cc" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
