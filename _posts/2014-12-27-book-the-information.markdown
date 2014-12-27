@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "读《信息简史》"
+title:  "读《信息简史》后感"
 date:   2014-12-27 21:01:28
 categories: jekyll update
 ---
