@@ -10,7 +10,7 @@ permalink:        /blog/:year/:month/:day/:title
 title:            "Teng Rui's Blog"
 tagline:          "powered by Jekyll"
 description:      "Teng Rui's blog using Jekyll Metro theme"
-url:              'http://localhost:4000'
+url:              'http://tengrui.cc'
 baseurl:          ''
 
 # Navigation
