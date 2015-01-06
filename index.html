@@ -22,12 +22,12 @@ description: Home Page for Teng Rui's Blog
 				</a>
 		    </div>
 			<div class="col-md-2 col-sm-3 col-xs-6">
-				<a href="resume/" title="Resume" class="tile red bord icon-resume"></a>
+				<a href="resume/" title="Resume" class="tile blue bord icon-resume"></a>
 			</div>
 			<div class="col-md-2 col-sm-3 col-xs-6">
 				<div class="live-tile" data-mode="flip" data-delay="4000">
 					<div>
-						<a href="blog/" title="Blog" class="tile orange bord icon-blog"></a>
+						<a href="blog/" title="Blog" class="tile red bord icon-blog"></a>
 					</div>
 					<div>
 						<a href="blog/" title="Blog" class="tile orange bord font-fix">
@@ -44,7 +44,7 @@ description: Home Page for Teng Rui's Blog
 			<div class="col-md-4 col-sm-6 col-xs-12">
 				{% for post in site.posts limit:1 %}
 				<a href="{{post.url}}">
-					<div class="tile red bord">
+					<div class="tile green bord">
 						<h3 class="title">Latest Article</h3>
 						<h4 class="title">{{ post.title }}</h4>
 						<p> {{ post.content | strip_html | truncatewords: 1 }}</p>
@@ -102,39 +102,39 @@ description: Home Page for Teng Rui's Blog
 			</div>
 
 			<div class="col-md-2 col-sm-3 col-xs-6 flip-back ha" style="transform: rotateX(360deg); transition: all 500ms ease 0s;">
-				<a class="tile blue bord tw-ico" href="https://twitter.com/Rui_Teng"></a>
+				<a class="tile purple bord tw-ico" href="https://twitter.com/Rui_Teng"></a>
 			</div>
 		</div>
 
 			<div class="col-md-2 col-sm-3 col-xs-6">
-				<a href="{{site.twitter}}"  class="tile blue bord tw-ico"></a>
+				<a href="feed.xml/" class="tile green bord rs-ico"></a>
+			</div>
+			
+			<div class="col-md-2 col-sm-3 col-xs-6">
+				<a href="{{site.twitter}}"  class="tile orange bord tw-ico"></a>
 			</div>
 
 			<div class="col-md-2 col-sm-3 col-xs-6">
-				<a href="{{site.facebook}}" class="tile blue bord fk-ico"></a>
+				<a href="{{site.facebook}}" class="tile purple bord fk-ico"></a>
 			</div>
 
 			<div class="col-md-2 col-sm-3 col-xs-6">
-				<a href="feed.xml/" class="tile purple bord rs-ico"></a>
-			</div>
-
-			<div class="col-md-2 col-sm-3 col-xs-6">
-				<a href="{{site.gplus}}" class="tile orange bord gl-ico"></a>
+				<a href="{{site.gplus}}" class="tile blue bord gl-ico"></a>
 			</div>
 
 			<!-- Mini tile -->
 			<div class="col-md-2 col-sm-3 col-xs-6 rside">
 				<div class="row">
 					<div style="padding-left:0px" class="col-md-6 col-sm-6 col-xs-6">
-					    <a href="{{site.linkedin}}" class="mtile blue bord lk-ico-sm"></a>
+					    <a href="{{site.linkedin}}" class="mtile purple bord lk-ico-sm"></a>
 					</div>
 					<div style="padding-left:0px" class="col-md-6 col-sm-6 col-xs-6">
-						<a href="{{site.twitter}}"  class="mtile blue bord tw-ico-sm"></a>
+						<a href="{{site.twitter}}"  class="mtile green bord tw-ico-sm"></a>
 					</div>
 				</div>
 				<div class="row">
 					<div  class="col-md-6 col-sm-6 col-xs-6 rep-1">
-						<a href="{{site.facebook}}" class="mtile purple bord fk-ico-sm"></a>
+						<a href="{{site.facebook}}" class="mtile blue bord fk-ico-sm"></a>
 					</div>
 					<div  class="col-md-6 col-sm-6 col-xs-6 rep-2">
 						<a href="{{site.gplus}}" class="mtile orange bord gl-ico-sm"></a>

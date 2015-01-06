@@ -24,7 +24,7 @@ navigation:
 - text: Tags
   url: /tags/
 - text: Archive
-  url : /archive/
+  url: /archive/
 
 # Author Details
 author:         "Teng Rui"
