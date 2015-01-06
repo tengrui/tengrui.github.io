@@ -8,8 +8,8 @@ permalink:        /blog/:year/:month/:day/:title
 
 # Setup
 title:            "Teng Rui's Blog"
-tagline:          'A Metro theme for Jekyll'
-description:      'A Sample blog using Jekyll Metro'
+tagline:          "powered by Jekyll"
+description:      "Teng Rui's blog using Jekyll Metro theme"
 url:              'http://localhost:4000'
 baseurl:          ''
 
@@ -27,14 +27,14 @@ navigation:
   url : /archive/
 
 # Author Details
-author:         'Teng Rui'
-linkedin:       'https://cn.linkedin.com/in/tengrui/'
-twitter:        'https://twitter.com/Rui_Teng'
-facebook:       'https://www.facebook.com/tengrui'
-gplus:          'https://plus.google.com/'
+author:         "Teng Rui"
+linkedin:       "https://www.linkedin.com/pub/rui-teng/"
+twitter:        "https://twitter.com/Rui_Teng"
+facebook:       "https://www.facebook.com/tengrui.cc"
+gplus:          "https://plus.google.com/111799168211135203870/"
 
 # Google Analytics
-gahandler: ' '
+# gahandler: ' '
 
 # Blog Configurations
 paginate: 10 # Posts per page on the blog index
