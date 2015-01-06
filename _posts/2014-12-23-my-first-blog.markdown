@@ -2,7 +2,8 @@
 layout: post
 title:  "My First Blog!"
 date:   2014-12-23 21:01:28
-categories: jekyll update
+tag:    Jekyll
+categories: SharePoint
 ---
 今天终于搞了一个基于Github Pages和Jekyll的博客。以前在GAE里面搞过一个，但是不久就被墙了。
 

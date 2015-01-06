@@ -2,7 +2,7 @@
 layout: post
 title:  "2015新年计划"
 date:   2015-01-01 21:01:28
-categories: jekyll update
+categories: SharePoint
 ---
 新的一年到来了，在这一年里，我希望完成以下几件事情吧：
 

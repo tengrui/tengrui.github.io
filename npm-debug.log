@@ -1,0 +1,21 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'node',
+1 verbose cli   'C:\\Users\\IBM_ADMIN\\AppData\\Roaming\\npm\\node_modules\\npm\\bin\\npm-cli.js',
+1 verbose cli   'install' ]
+2 info using npm@2.1.17
+3 info using node@v0.10.35
+4 verbose config Skipping project config: C:\Users\IBM_ADMIN/.npmrc. (matches userconfig)
+5 error install Couldn't read dependencies
+6 verbose stack Error: ENOENT, open 'C:\Users\IBM_ADMIN\package.json'
+7 verbose cwd C:\Users\IBM_ADMIN\Documents\GitHub\tengrui.github.io
+8 error Windows_NT 6.1.7601
+9 error argv "node" "C:\\Users\\IBM_ADMIN\\AppData\\Roaming\\npm\\node_modules\\npm\\bin\\npm-cli.js" "install"
+10 error node v0.10.35
+11 error npm  v2.1.17
+12 error path C:\Users\IBM_ADMIN\package.json
+13 error code ENOPACKAGEJSON
+14 error errno 34
+15 error package.json ENOENT, open 'C:\Users\IBM_ADMIN\package.json'
+15 error package.json This is most likely not a problem with npm itself.
+15 error package.json npm can't find a package.json file in your current directory.
+16 verbose exit [ 34, true ]

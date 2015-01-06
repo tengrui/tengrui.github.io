@@ -2,7 +2,7 @@
 layout: post
 title:  "2014年终总结"
 date:   2014-12-24 21:01:28
-categories: jekyll update
+categories: SharePoint
 ---
 今天部门开了个圣诞party，又对过去的一年进行了一番总结。这样的总结最近有几次了，每次都说2014是不同寻常的一年。
 

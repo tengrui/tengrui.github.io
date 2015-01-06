@@ -2,7 +2,8 @@
 layout: post
 title:  Jekyll+Disgus
 date:   2015-01-05 21:01:28
-categories: jekyll update
+tag:    Disgus
+categories: SharePoint
 ---
 昨天发现别人的Jekyll Blog可以留言了，研究了一下用的是Disgus。一个第三方的评论网站。数据存在这个网站里，Jekyll这个静态博客只需要添加相关的Javascript代码，就可以显示并添加评论了。
 

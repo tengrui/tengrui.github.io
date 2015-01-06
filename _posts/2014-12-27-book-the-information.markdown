@@ -2,7 +2,8 @@
 layout: post
 title:  "读《信息简史》后感"
 date:   2014-12-27 21:01:28
-categories: jekyll update
+tag:    读书
+categories: SharePoint
 ---
 这本书是我今年9月2日参加微博上@图灵教育的#疯狂猜图#活动得来的，我用了Google图片搜到了Vint Cerf，然后就愉快地获得了这本《信息简史》。
 

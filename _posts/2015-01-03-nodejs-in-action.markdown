@@ -2,7 +2,8 @@
 layout: post
 title:  "《Node.js实战》学习笔记1"
 date:   2015-01-03 21:01:28
-categories: jekyll update
+tag:    Node.js
+categories: SharePoint
 ---
 应该是因为Bluemix的缘故，我一时兴起，打算学习Node.js搞一个自己的网站，然后就买了这本《Node.js实战》。和平常一样，粗略看了几页后，就束之高阁了。
 
