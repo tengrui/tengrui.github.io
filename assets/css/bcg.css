@@ -61,6 +61,18 @@ body {
 	background-repeat: no-repeat;
 }
 
+.gh-ico {
+	background-image: url('/assets/images/gh_ico.png');
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+.gh-ico-sm {
+	background-image: url('/assets/images/gh_ico_sm.png');
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
 .tw-ico {
 	background-image: url('/assets/images/tw_ico.png');
 	background-position: center;
