@@ -1,10 +1,10 @@
 body {
-		background: url('/assets/images/bcg_wall.jpg') no-repeat center center fixed;
+	background: url('/assets/images/bcg_wall.jpg') no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-		color:#fff;
+	color:#fff;
   	background-color:#333;
 }
 
@@ -93,6 +93,30 @@ body {
 
 .lk-ico-sm {
 	background-image: url('/assets/images/lk_ico_sm.png');
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+.sto-ico {
+	background-image: url('/assets/images/sto_ico.png');
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+.sto-ico-sm {
+	background-image: url('/assets/images/sto_ico_sm.png');
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+.yt-ico {
+	background-image: url('/assets/images/yt_ico.png');
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+.yt-ico-sm {
+	background-image: url('/assets/images/yt_ico_sm.png');
 	background-position: center;
 	background-repeat: no-repeat;
 }
