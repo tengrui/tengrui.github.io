@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "《如何变得有思想》读后感"
-date:   2015-01-25 23:49:00
+date:   2015-01-29 23:49:00
 tag:    Java
 categories: SharePoint
 ---
