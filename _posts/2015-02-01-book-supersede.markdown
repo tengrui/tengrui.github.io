@@ -17,4 +17,4 @@ categories: SharePoint
 
 长江后浪推前浪，一代新人赶旧人。以前大把银子买的书，如今也只能落到卖废纸的地步了。相似的，如果自己不跟上技术的更新，离被淘汰的命运也不远了，也许这才是我真正感到难过的地方吧。
 
-![book](http://tengrui.github.io/p ublic/upload/book_replaced.jpg)
+![book](http://tengrui.github.io/p ublic/upload/book_supersede.jpg)
