@@ -2,7 +2,7 @@
 layout: post
 title:  "读《Node与Express开发》"
 date:   2015-02-22 15:46:00
-tag:    读书; Node.js
+tag:    读书
 categories: SharePoint
 ---
 今天翻看完了《Node与Express开发》，走马观花地读了一遍，顺便在图灵社区提了十几个勘误。
