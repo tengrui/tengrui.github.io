@@ -24,11 +24,37 @@ categories: SharePoint
         }
     }
 
+输出效果
+
+	[GC (Allocation Failure) [PSYoungGen: 7330K->992K(9216K)] 7330K->5297K(19456K), 0.0094021 secs] [Times: user=0.00 sys=0.00, real=0.01 secs] 
+	[GC (Allocation Failure) --[PSYoungGen: 9184K->9184K(9216K)] 13489K->19416K(19456K), 0.0171858 secs] [Times: user=0.06 sys=0.00, real=0.02 secs] 
+	[Full GC (Ergonomics) [PSYoungGen: 9184K->0K(9216K)] [ParOldGen: 10232K->9893K(10240K)] 19416K->9893K(19456K), [Metaspace: 2524K->2524K(1056768K)], 0.1437797 secs] [Times: user=0.23 sys=0.00, real=0.14 secs] 
+	[Full GC (Ergonomics) [PSYoungGen: 7706K->8077K(9216K)] [ParOldGen: 9893K->7783K(10240K)] 17600K->15860K(19456K), [Metaspace: 2524K->2524K(1056768K)], 0.1274782 secs] [Times: user=0.25 sys=0.00, real=0.13 secs] 
+	[Full GC (Allocation Failure) [PSYoungGen: 8077K->8076K(9216K)] [ParOldGen: 7783K->7783K(10240K)] 15860K->15859K(19456K), [Metaspace: 2524K->2524K(1056768K)], 0.0685814 secs] [Times: user=0.16 sys=0.00, real=0.07 secs] 
+	Exception in thread "main" java.lang.OutOfMemoryError: Java heap space
+		at java.util.Arrays.copyOf(Arrays.java:3210)
+		at java.util.Arrays.copyOf(Arrays.java:3181)
+		at java.util.ArrayList.grow(ArrayList.java:261)
+		at java.util.ArrayList.ensureExplicitCapacity(ArrayList.java:235)
+		at java.util.ArrayList.ensureCapacityInternal(ArrayList.java:227)
+		at java.util.ArrayList.add(ArrayList.java:458)
+		at Demo.main(Demo.java:9)
+	[Full GC (Ergonomics) [PSYoungGen: 8192K->0K(9216K)] [ParOldGen: 7783K->492K(10240K)] 15975K->492K(19456K), [Metaspace: 2550K->2550K(1056768K)], 0.0036032 secs] [Times: user=0.06 sys=0.00, real=0.00 secs] 
+	Heap
+	 PSYoungGen      total 9216K, used 164K [0x00000000ff600000, 0x0000000100000000, 0x0000000100000000)
+	  eden space 8192K, 2% used [0x00000000ff600000,0x00000000ff6290e8,0x00000000ffe00000)
+	  from space 1024K, 0% used [0x00000000ffe00000,0x00000000ffe00000,0x00000000fff00000)
+	  to   space 1024K, 0% used [0x00000000fff00000,0x00000000fff00000,0x0000000100000000)
+	 ParOldGen       total 10240K, used 492K [0x00000000fec00000, 0x00000000ff600000, 0x00000000ff600000)
+	  object space 10240K, 4% used [0x00000000fec00000,0x00000000fec7b000,0x00000000ff600000)
+	 Metaspace       used 2557K, capacity 4486K, committed 4864K, reserved 1056768K
+	  class space    used 275K, capacity 386K, committed 512K, reserved 1048576K
+
 至于产生StackOverflowError，一个没有返回的递归函数即可实现。
 
 但从某种意义上说，这些并没有让JVM崩溃，而是抛出一个异常，Java虚拟机规范里面已经明确定义了这些异常发生的情况。
 
-在真正的黑客眼里，JVM内部的Bug才是他们的答案。不过JVM内部的Bug最终会被修复，对于一般爱好者，可以找找以前的Java Bug Database，然后用旧版本的JVM验证。
+在真正的黑客眼里，JVM内部的Bug才是他们的答案。但JVM内部的Bug最终会被修复，对于一般爱好者，可以找找以前的Java Bug Database，然后用旧版本的JVM验证。
 
 不过还有另外一种容易引起JVM崩溃的地方就是JNI，虽然是外部代码引起的，但应该也算是JVM机制上的一种缺陷吧。
 
@@ -87,12 +113,12 @@ JvmCrash.c
 	
 	JNIEXPORT void JNICALL Java_JvmCrash_greeting(JNIEnv* env, jclass cl)
 	{
-		printf("Hello Crash world!\n");
+		printf("Hello Crash World!\n");
 	    int i = 0;
 	    int j = 1 / i;
 	}
 
-然后，我们就能得到一个Fatal Error了！
+然后，我们就能得到一个Fatal Error而不是一个Exception了！
 
     #
     # A fatal error has been detected by the Java Runtime Environment:
