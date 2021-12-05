@@ -1,77 +1,49 @@
 ---
 layout: page
-title: Resume
+title: 滕瑞简历
 description: Resume of Teng Rui
 theme: blue
 ---
-Nine years of experience in software development on C++ and Java technologies.
+## 简介
+多年软件开发经验。
 
-<!-- Skills -->
-<section class="row">
-	<header class="col-md-3">
-		<h3 style="text-transform:uppercase;color:gray">Skills</h3>
-	</header>
-	<div class="col-md-9">
-		<div class="row">
-			<div class="col-md-6">
-				<ul class="list-group">
-					<li class="list-group-item active"><h4><strong>Programming</strong></h4></li>
-					<li class="list-group-item">C++</li>
-					<li class="list-group-item">Java</li>
-				</ul>
-			</div>
-			<div class="col-md-6">
-				<ul class="list-group">
-					<li class="list-group-item active"><h4><strong>Specialties</strong></h4></li>
-					<li class="list-group-item">Streaming Server</li>
-					<li class="list-group-item">Image Process</li>
-				</ul>
-			</div>
-		</div>
-	</div>
-</section>
-<hr/>
-<!-- Education -->
-<section class="row">
-	<header class="col-md-3">
-		<h3 style="text-transform:uppercase;color:gray">Education</h3>
-	</header>
-	<div class="col-md-9">
-		<ul>
-			<li>
-				<h4>Master of Electronic Engineering</h4>
-				<p>2003-2006 - Dalian University of Technology</p>
-			</li>
-			<li>
-				<h4>Bachelor of Electronic Engineering</h4>
-				<p>1999-2003 - Dalian University of Technology</p>
-			</li>
-		</ul>
-	</div>
-</section>
-<hr/>
-<!-- Work -->
-<section class="row">
-	<header class="col-md-3">
-		<h3 style="text-transform:uppercase;color:gray">Main Work Experience</h3>
-	</header>
-	<div class="col-md-9">
-		<ul>
-			<li>
-				<h4>IBM</h4>
-				<h5>July 2011 - Present</h5>
-				<p>Working as Software Engineer</p>
-			</li>
-			<li>
-				<h4>Ericsson (China) Communication Company Ltd.</h4>
-				<h5>March 2007 - June 2010</h5>
-				<p>Worked as Software Engineer</p>
-			</li>
-			<li>
-				<h4>Huawei Technologies Co. Ltd.</h4>
-				<h5>January 2006 - March 2007</h5>
-				<p>Worked as Software Engineer</p>
-			</li>
-		</ul>
-	</div>
-</section>
+熟悉C，C++，Java，Python，Shell，Groovy等多种编程语言的使用。
+
+熟悉常用的算法及数据结构，熟悉面向对象程序设计及设计模式，熟悉多种软件开发流程。
+
+热衷钻研技术，具有良好的团队合作精神及创新精神。
+
+## 工作经验
+### 2018/5-至今 AMD MTS
+- AMD GPU Linux Driver 自动化集成测试系统Jarvis CI的开发及维护
+- 熟悉Groovy、Python、Shell Script的开发
+
+### 2011/7-2018/5 IBM 资深软件工程师
+- 2017-2018：IBM DS8000 Easy Tier产品开发及维护
+- 2016-2017：IBM Linux Technology Center Linux内核开发
+- 2015-2016：基于Nagios和Ganglia的监控管理软件开发
+- 2011-2015：IBM Systems Director及Flex System Manager中Update Manager模块负责人
+- 熟悉Java OSGi插件的开发、Linux环境下C语言开发
+
+### 2007/8-2010/8, 2010/11-2011/7 爱立信（中国）通信有限公司 软件工程师
+- 爱立信流媒体服务器及应用服务器的开发及维护
+- 熟悉C++ ACE框架下的网络及多线程变成，熟悉RTSP、RTP/RTCP、SDP等协议
+- 熟练使用Solaris系统下dbx、mdb、pstack等工具进行问题调试及分析
+- 了解EJB、JSP、JBoss、Oracle、LDAP等框架和工具的使用
+
+### 2006/2-2007/6 华为技术有限公司 软件工程师
+- 电信组件组性能模块的开发及维护
+- Linux、VxWorks平台下C语言嵌入式软件开发，熟练使用GDB及Tornado等工具进行调试
+- 独立承担IPD-CMM流程中的需求分析、软件设计、编码、单元测试、集成测试等各项任务
+
+## 教育经历
+- 2003-2006 大连理工大学，信号与信息处理，硕士
+- 1999-2003 大连理工大学，电子信息工程，本科
+
+## 培训经历
+- 2017/8 ISO 9001:2015 Lead Auditor (Quality Management Systems) Training course
+
+## 兴趣特长
+- 2011 IBM Sports Day 男子乒乓球单打冠军
+- 野狐围棋业余3段
+- 腾讯象棋业余7级
