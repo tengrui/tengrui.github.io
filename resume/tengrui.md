@@ -5,18 +5,18 @@ description: Resume of Teng Rui
 theme: blue
 ---
 ## 简介
-多年软件开发经验。
+多年软件开发经验
 
-熟悉C，C++，Java，Python，Shell，Groovy等多种编程语言的使用。
+熟悉C，C++，Java，Python，Shell，Groovy等多种编程语言
 
-熟悉常用的算法及数据结构，熟悉面向对象程序设计及设计模式，熟悉多种软件开发流程。
+熟悉常用的算法及数据结构，熟悉面向对象程序设计及设计模式，熟悉多种软件开发流程
 
-热衷钻研技术，具有良好的团队合作精神及创新精神。
+热衷钻研技术，具有良好的团队合作精神及创新精神
 
 ## 工作经验
 ### 2018/5-至今 AMD MTS
 - AMD GPU Linux Driver 自动化集成测试系统Jarvis CI的开发及维护
-- 熟悉Groovy、Python、Shell Script的开发
+- 熟悉Groovy、Python、Shell编程
 
 ### 2011/7-2018/5 IBM 资深软件工程师
 - 2017-2018：IBM DS8000 Easy Tier产品开发及维护
