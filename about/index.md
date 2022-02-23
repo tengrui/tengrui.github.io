@@ -12,9 +12,9 @@ In spare time, I like reading books, playing table tennis, chess, skateboard and
 
 我是滕瑞，80后程序员。
 
-毕业于大连理工大学电子工程系，现就职于上海IBM。
+毕业于大连理工大学电子工程系，现就职于上海AMD。
 
-闲暇时间我喜欢看书、打乒乓球、下围棋、象棋、玩滑板和悠悠球。
+闲暇时间我喜欢看书、打乒乓球、下围棋、象棋。
 
 ### Comments:
 <div id="disqus_thread"></div>
