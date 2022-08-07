@@ -52,3 +52,6 @@ theme: blue
 - 2011 IBM Sports Day 男子乒乓球单打冠军
 - 野狐围棋业余4段
 - 腾讯象棋业余7级
+
+## 联系方式
+Email: tengrui@live.cn
