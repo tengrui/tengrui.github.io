@@ -1,4 +1,6 @@
-source 'http://ruby.taobao.org'
-gem 'json'
-gem 'jekyll'
-gem 'github-pages'
+source 'https://rubygems.org'
+
+gem "jekyll"
+gem "jekyll-paginate"
+gem "support-for"
+gem "http_parser"

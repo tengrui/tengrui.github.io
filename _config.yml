@@ -1,48 +1,34 @@
-# Configurations
+title: Long Haul
+description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+
+url: https://long-haul.netlify.app
+paginate_path: "blog/page:num/"
+permalink: blog/:title/
+
+# Header Option
+# header: large
+
 markdown: kramdown
-markdown_ext:  markdown,mkdown,mkdn,mkd,md
 highlighter: rouge
+plugins: [jekyll-paginate]
+paginate: 5
 
-# Permalinks
-permalink:        /blog/:year/:month/:day/:title
-
-# Setup
-title:            "Teng Rui's Blog"
-tagline:          "powered by Jekyll"
-description:      "Teng Rui's blog using Jekyll Metro theme"
-url:              'http://tengrui.me'
-baseurl:          ''
-
-# Navigation
 navigation:
-- text: About
-  url: /about/
-- text: Resume
-  url: /resume/
-- text: Blog
-  url: /blog/
-- text: Tags
-  url: /tags/
-- text: Archive
-  url: /archive/
+  - title: Home
+    url: /index.html
+  - title: About
+    url: /about
+  - title: Contact
+    url: /contact
 
-# Author Details
-author:         "Teng Rui"
-linkedin:       "https://www.linkedin.com/pub/rui-teng/"
-twitter:        "https://twitter.com/Rui_Teng"
-facebook:       "https://www.facebook.com/tengrui.cc"
-gplus:          "https://plus.google.com/111799168211135203870/"
-github:         "https://github.com/tengrui"
-stackoverflow:  "http://stackoverflow.com/users/4436607/rui-teng"
-youtube:        "https://www.youtube.com/channel/UCc8HDdN5NCOdeu9vHOI_7Gg"
+social:
+  github: brianmaierjr
+  twitter: brianmaierjr
+  facebook: brianmaierjr
+  email: brimaidesigns@gmail.com
+  linkedin: brianmaierjr
 
-# Google Analytics
-# gahandler: ' '
+google_analytics: "UA-58263416-1"
 
-# Blog Configurations
-paginate: 10 # Posts per page on the blog index
-paginate_path: '/blog/page:num'
-destination: ./_site
-
-# Custom vars
-version:          0.7.9
+disqus:
+    shortname: brianmaierjr
