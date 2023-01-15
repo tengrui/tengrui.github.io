@@ -1,0 +1,44 @@
+I"�<p>最近开始看《Java程序员修炼之道》。从副标题和简介来看，主要是介绍Java 7新特性，以及JVM上其他语言的应用，如Groovy、Scala和Clojure。</p>
+
+<p>已经看完了第一部分，了解了一下Coin项目和NIO.2（在《Core Java》中，将其与Java 1.4引入的NIO相对比，称之为“新新IO”）。</p>
+
+<p>首先，Coin项目包含的是Java语言特性的微小改动，共6个新特性：</p>
+
+<ol>
+  <li>switch语句中的String</li>
+  <li>更强的数值文本表示法</li>
+  <li>改善后的异常处理</li>
+  <li>TWR（try-with-resources）</li>
+  <li>钻石语法</li>
+  <li>简化变参方法调用</li>
+</ol>
+
+<p>总的来说这些语法都很方便有用。</p>
+
+<p>其次，NIO.2中引入了Path、Files和WatchService等类，据说比原来的File类更方便。</p>
+
+<p>但是对于实际项目，尤其是我目前参与项目来说，首先要升级到Java 7的JRE，然后再考虑要不要重构以前的代码。由于现有代码可能已经实现了Path的这些功能，以及出于稳定性的考虑，一般是没有机会重写相关的代码的。</p>
+
+<p>另外，本书有配套的代码，下载后的编译可能会遇到一些问题，其中之一和Scala与Java 8的版本冲突有关（因为本地JDK已经升级到Java 8），可以把pom.xml中Scala的版本修从‘2.9.0’改为‘2.10.2’来解决。</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  &lt;!-- Scala compiler plugin --&gt;
+  &lt;plugin&gt;
+    &lt;groupId&gt;org.scala-tools&lt;/groupId&gt;
+    &lt;artifactId&gt;maven-scala-plugin&lt;/artifactId&gt;
+    &lt;version&gt;2.14.1&lt;/version&gt;
+    &lt;executions&gt;
+      &lt;execution&gt;
+        &lt;goals&gt;
+          &lt;goal&gt;compile&lt;/goal&gt;
+          &lt;goal&gt;testCompile&lt;/goal&gt;
+        &lt;/goals&gt;
+      &lt;/execution&gt;
+    &lt;/executions&gt;
+    &lt;configuration&gt;
+      &lt;scalaVersion&gt;2.10.2&lt;/scalaVersion&gt;
+    &lt;/configuration&gt;
+  &lt;/plugin&gt;
+</code></pre></div></div>
+
+<p>虽然改完了还是有其他的问题，但相比这个都比较容易解决。</p>
+:ET

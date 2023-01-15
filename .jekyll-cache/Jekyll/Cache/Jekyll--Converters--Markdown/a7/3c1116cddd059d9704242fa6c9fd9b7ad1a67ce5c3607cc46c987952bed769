@@ -1,0 +1,14 @@
+I"�<p>今天突发奇想，对家里的计算机书的出版社数据进行一下分析。由于数量较少，所以称为“小数据”分析。（以下只统计了国外引进的书，因为这样才会有两个出版社。）</p>
+
+<p><img src="http://tengrui.github.io/public/upload/book_press.jpg" alt="press" /></p>
+
+<ol>
+  <li>大部分的图书都是Pearson的。这个集团又分为Prentice-Hall，Addison-Wesly，New Riders，Peachpit等子品牌。其中大部分是Prentice-Hall和Addison-Welsly的。</li>
+  <li>O’REILLY的动物书很有特点，摆放在书架上十分统一。</li>
+  <li>MANNING的人物肖像系列也占了不少比例，其中大部分是实战系列。</li>
+  <li>和Pearson的书对应国内的出版社，主要集中在图灵教育和华章科技两家。</li>
+  <li>另外，统计了一下其余国内作者写的书，数量最多的是博文视点的。</li>
+</ol>
+
+<p>以后买书，可能会特别注意O’REILLY的书吧，花花绿绿的，最主要比较整齐。</p>
+:ET

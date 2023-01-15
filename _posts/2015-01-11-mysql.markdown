@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "LeetCode Database"
+date:   2015-01-11 22:05:00
+tag:    Database
+categories: SharePoint
+---
+昨天微博上看到LeetCode上有关于SQL的题了。
+
+记得大学里面学过数据库，用的是FoxPro。记得当时学得还可以，大作业还做了两份。但不知怎么的，后来反而变成弱项了，一看到数据库就害怕。
+
+巧的是上周五还有人发布招聘信息，只要求精通SQL，其他技能不限，月薪2w起...
+
+看来这个也得补一补了，倒不是因为那2w的职位受打击了，主要这个短板确实有点短。
+
+看到LeetCode上写的是MySQL query statement，所以找出很久以前买的一本《MySQL完全手册》。一看是2006年出版的，讲的是MySQL4.x的内容。不过感觉还没有过时，东西还够用。
+
+第一题是“Combine Two Tables”，考的是左连接。翻了翻书，居然一次就写对了。
+
+    # Write your MySQL query statement below
+    SELECT FirstName, LastName, City, State FROM Person LEFT JOIN Address ON Person.PersonId = Address.PersonId;
+
+第二题是“Second Highest Salary”，有点不会了。翻书、Google、试了很多次也没有成功，很多都是语法错误。最后不得不在电脑上装一个MySQL玩，才把问题搞定了。这道题用到了子查询和多个函数。
+
+    # Write your MySQL query statement below
+    SELECT IF(COUNT(Salary)=0, null, Salary) As SecondHighestSalary FROM Employee WHERE Salary = (SELECT Salary FROM Employee GROUP BY Salary ORDER BY Salary DESC LIMIT 1,1);
+
+感觉SQL语句和正则表达式有点类似，写的时候比较费劲，用的时候就爽了。
