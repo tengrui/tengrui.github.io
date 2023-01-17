@@ -6,12 +6,12 @@ url: http://tengrui.me
 date_format: "ordinal"
 title: Rui Teng
 subtitle: "NoName"
-description: "Temp"
+description: "None"
 keywords: tengrui
 timezone: Asia/Shanghai
 encoding: "utf-8"
 # 页面左下角显示的年份
-since: 2015
+since: 2023
 # 源码仓库，请替换成自己的
 repository: tengrui/tengrui.github.io
 # 对 css 和 js 资源的 cdn 加速配置
@@ -43,11 +43,11 @@ components:
         image_alt: 闷骚的程序员
     # 维基索引页使用哪种视图，支持 列表（list）/分类（cate）
     wiki:
-        enabled: false
+        enabled: true
         view: cate
     # 图片灯箱效果功能
     fancybox:
-        enabled: false
+        enabled: true
 # 压缩页面内容
 compress_html:
   clippings: all
@@ -62,7 +62,7 @@ author: Rui Teng
 organization: 
 organization_url: 
 github_username: tengrui
-location: Wuhan, China
+location: Shanghai, China
 email: tengrui.cc@gmail.com
 
 # ---------------- #
@@ -85,13 +85,13 @@ navs:
 #     href: /open-source/
 #     label: 开源
 
-#  -
-#    href: /wiki/
-#    label: 维基
+  -
+    href: /wiki/
+    label: 维基
 
-      #  -
-      #href: /links/
-      #label: 链接
+  -
+    href: /links/
+    label: 链接
 
   -
     href: /about/
@@ -100,7 +100,7 @@ navs:
 # ---------------- #
 #       RSS        #
 # ---------------- #
-subscribe_rss: /feed.xml
+#subscribe_rss: /feed.xml
 
 # ---------------- #
 #      Jekyll      #
