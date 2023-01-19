@@ -7,33 +7,28 @@
 <link rel="stylesheet" href="/assets/css/style.css">
 <title>About</title>
 <!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>About | Your awesome title</title>
+<title>About | Rui Teng’s Blog</title>
 <meta name="generator" content="Jekyll v4.3.1" />
 <meta property="og:title" content="About" />
+<meta name="author" content="tengrui" />
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description." />
 <meta property="og:description" content="Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description." />
 <link rel="canonical" href="http://localhost:4000/about/" />
 <meta property="og:url" content="http://localhost:4000/about/" />
-<meta property="og:site_name" content="Your awesome title" />
+<meta property="og:site_name" content="Rui Teng’s Blog" />
 <meta property="og:type" content="website" />
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="About" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebSite","description":"Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.","headline":"About","name":"Your awesome title","url":"http://localhost:4000/about/"}</script>
+{"@context":"https://schema.org","@type":"WebSite","author":{"@type":"Person","name":"tengrui"},"description":"Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.","headline":"About","name":"Rui Teng’s Blog","url":"http://localhost:4000/about/"}</script>
 <!-- End Jekyll SEO tag -->
 </head>
 <body>
-	<header class="texture-blue">
-		<div class="container"><div class="navbar">
-	<ul>
-		
-		<a href="/about"><li  >About</li></a>
-		
-	</ul>
-</div></div><div class="container">
+	<header class="texture-black">
+		<div class="container"></div><div class="container">
 	<h1>Rui Teng</h1>
-	<h2>Software Developer</h2>
+	<h2>纸上得来终觉浅</h2>
 	<ul class="social"><a href="https://github.com/tengrui"><li><i class="icon-github-circled"></i></li></a><a href="https://linkedin.com/in/tengrui"><li><i class="icon-linkedin-squared"></i></li></a></ul>
 </div>
 </header>
@@ -51,5 +46,20 @@
 
 
 		</div>
-	</main></body>
+	</main><div id="texture-picker">
+	<div style="display:flex;justify-content: space-between">
+		<p>Select Texture</p>
+		<p><a id="hidePicker" href="#">Hide</a></p>
+	</div>
+	<div class="texture-colors">
+		<div id="black"></div>
+		<div id="blue"></div>	
+		<div id="red"></div>	
+		<div id="purple"></div>		
+		<div id="green"></div>
+	</div>
+	<p class="info">You can use the <b>showPicker</b> property in _config.yml to hide this picker permanently.</p>
+	<p class="info">You can use the <b>texture</b> property in _config.yml to apply a texture permanently.</p>
+</div>
+<script src="/assets/js/picker.js"></script></body>
 </html>

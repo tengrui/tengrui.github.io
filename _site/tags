@@ -1,0 +1,542 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/home/rui/workspace/github/tengrui.github.io/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	//
+$hidePicker.onclick	_site/assets/js/picker.js	/^	$hidePicker.onclick = function () {$/;"	kind:f	line:18	variable:$hidePicker	signature:()
+$hidePicker.onclick	assets/js/picker.js	/^	$hidePicker.onclick = function () {$/;"	kind:f	line:18	variable:$hidePicker	signature:()
+$picker.onclick	_site/assets/js/picker.js	/^	$picker.onclick = function(e) {$/;"	kind:f	line:11	variable:$picker	signature:(e)
+$picker.onclick	assets/js/picker.js	/^	$picker.onclick = function(e) {$/;"	kind:f	line:11	variable:$picker	signature:(e)
+*	_site/assets/css/style.css	/^*, *:before, *:after {$/;"	kind:s	line:280
+*	_site/assets/css/style.css	/^*, *:before, *:after {$/;"	kind:s	line:539
+*:after	_site/assets/css/style.css	/^*, *:before, *:after {$/;"	kind:s	line:280
+*:after	_site/assets/css/style.css	/^*, *:before, *:after {$/;"	kind:s	line:539
+*:before	_site/assets/css/style.css	/^*, *:before, *:after {$/;"	kind:s	line:280
+*:before	_site/assets/css/style.css	/^*, *:before, *:after {$/;"	kind:s	line:539
+-	assets/css/style.scss	/^    {%- else -%}$/;"	kind:P	line:12
+-	assets/css/style.scss	/^    {%- endif -%}$/;"	kind:P	line:15
+-	assets/css/style.scss	/^    {%- if site.texture.showNav -%}$/;"	kind:P	line:9
+-	assets/css/style.scss	/^ {%- if site.texture.showPicker -%}$/;"	kind:P	line:6
+-	assets/css/style.scss	/^{%- endif -%}$/;"	kind:P	line:53
+.clearfix	_site/assets/css/style.css	/^.clearfix {$/;"	kind:c	line:668
+.container	_site/assets/css/style.css	/^  .container {$/;"	kind:c	line:680
+.container	_site/assets/css/style.css	/^  .container {$/;"	kind:c	line:691
+.container	_site/assets/css/style.css	/^  .container {$/;"	kind:c	line:702
+.container	_site/assets/css/style.css	/^  .container {$/;"	kind:c	line:713
+.container	_site/assets/css/style.css	/^.container {$/;"	kind:c	line:672
+.container div.highlight	_site/assets/css/style.css	/^  .container div.highlight {$/;"	kind:c	line:686
+.container div.highlight	_site/assets/css/style.css	/^  .container div.highlight {$/;"	kind:c	line:697
+.container div.highlight	_site/assets/css/style.css	/^  .container div.highlight {$/;"	kind:c	line:708
+.container div.highlight	_site/assets/css/style.css	/^  .container div.highlight {$/;"	kind:c	line:719
+.container div.highlighter-rouge	_site/assets/css/style.css	/^  .container div.highlighter-rouge {$/;"	kind:c	line:683
+.container div.highlighter-rouge	_site/assets/css/style.css	/^  .container div.highlighter-rouge {$/;"	kind:c	line:694
+.container div.highlighter-rouge	_site/assets/css/style.css	/^  .container div.highlighter-rouge {$/;"	kind:c	line:705
+.container div.highlighter-rouge	_site/assets/css/style.css	/^  .container div.highlighter-rouge {$/;"	kind:c	line:716
+.container div.highlighter-rouge	_site/assets/css/style.css	/^.container div.highlighter-rouge {$/;"	kind:c	line:676
+.highlight	_site/assets/css/style.css	/^.highlight {$/;"	kind:c	line:306
+.highlight	_site/assets/css/style.css	/^.highlight {$/;"	kind:c	line:524
+.highlight .bp	_site/assets/css/style.css	/^.highlight .bp {$/;"	kind:c	line:502
+.highlight .c	_site/assets/css/style.css	/^.highlight .c {$/;"	kind:c	line:311
+.highlight .c1	_site/assets/css/style.css	/^.highlight .c1 {$/;"	kind:c	line:344
+.highlight .cm	_site/assets/css/style.css	/^.highlight .cm {$/;"	kind:c	line:338
+.highlight .cp	_site/assets/css/style.css	/^.highlight .cp {$/;"	kind:c	line:341
+.highlight .cs	_site/assets/css/style.css	/^.highlight .cs {$/;"	kind:c	line:347
+.highlight .err	_site/assets/css/style.css	/^.highlight .err {$/;"	kind:c	line:314
+.highlight .g	_site/assets/css/style.css	/^.highlight .g {$/;"	kind:c	line:317
+.highlight .gd	_site/assets/css/style.css	/^.highlight .gd {$/;"	kind:c	line:350
+.highlight .ge	_site/assets/css/style.css	/^.highlight .ge {$/;"	kind:c	line:353
+.highlight .gh	_site/assets/css/style.css	/^.highlight .gh {$/;"	kind:c	line:360
+.highlight .gi	_site/assets/css/style.css	/^.highlight .gi {$/;"	kind:c	line:363
+.highlight .go	_site/assets/css/style.css	/^.highlight .go {$/;"	kind:c	line:366
+.highlight .gp	_site/assets/css/style.css	/^.highlight .gp {$/;"	kind:c	line:369
+.highlight .gr	_site/assets/css/style.css	/^.highlight .gr {$/;"	kind:c	line:357
+.highlight .gs	_site/assets/css/style.css	/^.highlight .gs {$/;"	kind:c	line:372
+.highlight .gt	_site/assets/css/style.css	/^.highlight .gt {$/;"	kind:c	line:379
+.highlight .gu	_site/assets/css/style.css	/^.highlight .gu {$/;"	kind:c	line:376
+.highlight .il	_site/assets/css/style.css	/^.highlight .il {$/;"	kind:c	line:514
+.highlight .k	_site/assets/css/style.css	/^.highlight .k {$/;"	kind:c	line:320
+.highlight .kc	_site/assets/css/style.css	/^.highlight .kc {$/;"	kind:c	line:382
+.highlight .kd	_site/assets/css/style.css	/^.highlight .kd {$/;"	kind:c	line:385
+.highlight .kn	_site/assets/css/style.css	/^.highlight .kn {$/;"	kind:c	line:388
+.highlight .kp	_site/assets/css/style.css	/^.highlight .kp {$/;"	kind:c	line:391
+.highlight .kr	_site/assets/css/style.css	/^.highlight .kr {$/;"	kind:c	line:394
+.highlight .kt	_site/assets/css/style.css	/^.highlight .kt {$/;"	kind:c	line:397
+.highlight .l	_site/assets/css/style.css	/^.highlight .l {$/;"	kind:c	line:323
+.highlight .ld	_site/assets/css/style.css	/^.highlight .ld {$/;"	kind:c	line:400
+.highlight .m	_site/assets/css/style.css	/^.highlight .m {$/;"	kind:c	line:403
+.highlight .mf	_site/assets/css/style.css	/^.highlight .mf {$/;"	kind:c	line:457
+.highlight .mh	_site/assets/css/style.css	/^.highlight .mh {$/;"	kind:c	line:460
+.highlight .mi	_site/assets/css/style.css	/^.highlight .mi {$/;"	kind:c	line:463
+.highlight .mo	_site/assets/css/style.css	/^.highlight .mo {$/;"	kind:c	line:466
+.highlight .n	_site/assets/css/style.css	/^.highlight .n {$/;"	kind:c	line:326
+.highlight .na	_site/assets/css/style.css	/^.highlight .na {$/;"	kind:c	line:409
+.highlight .nb	_site/assets/css/style.css	/^.highlight .nb {$/;"	kind:c	line:412
+.highlight .nc	_site/assets/css/style.css	/^.highlight .nc {$/;"	kind:c	line:415
+.highlight .nd	_site/assets/css/style.css	/^.highlight .nd {$/;"	kind:c	line:421
+.highlight .ne	_site/assets/css/style.css	/^.highlight .ne {$/;"	kind:c	line:427
+.highlight .nf	_site/assets/css/style.css	/^.highlight .nf {$/;"	kind:c	line:430
+.highlight .ni	_site/assets/css/style.css	/^.highlight .ni {$/;"	kind:c	line:424
+.highlight .nl	_site/assets/css/style.css	/^.highlight .nl {$/;"	kind:c	line:433
+.highlight .nn	_site/assets/css/style.css	/^.highlight .nn {$/;"	kind:c	line:436
+.highlight .no	_site/assets/css/style.css	/^.highlight .no {$/;"	kind:c	line:418
+.highlight .nt	_site/assets/css/style.css	/^.highlight .nt {$/;"	kind:c	line:445
+.highlight .nv	_site/assets/css/style.css	/^.highlight .nv {$/;"	kind:c	line:448
+.highlight .nx	_site/assets/css/style.css	/^.highlight .nx {$/;"	kind:c	line:439
+.highlight .o	_site/assets/css/style.css	/^.highlight .o {$/;"	kind:c	line:329
+.highlight .ow	_site/assets/css/style.css	/^.highlight .ow {$/;"	kind:c	line:451
+.highlight .p	_site/assets/css/style.css	/^.highlight .p {$/;"	kind:c	line:335
+.highlight .py	_site/assets/css/style.css	/^.highlight .py {$/;"	kind:c	line:442
+.highlight .s	_site/assets/css/style.css	/^.highlight .s {$/;"	kind:c	line:406
+.highlight .s1	_site/assets/css/style.css	/^.highlight .s1 {$/;"	kind:c	line:496
+.highlight .s2	_site/assets/css/style.css	/^.highlight .s2 {$/;"	kind:c	line:478
+.highlight .sb	_site/assets/css/style.css	/^.highlight .sb {$/;"	kind:c	line:469
+.highlight .sc	_site/assets/css/style.css	/^.highlight .sc {$/;"	kind:c	line:472
+.highlight .sd	_site/assets/css/style.css	/^.highlight .sd {$/;"	kind:c	line:475
+.highlight .se	_site/assets/css/style.css	/^.highlight .se {$/;"	kind:c	line:481
+.highlight .sh	_site/assets/css/style.css	/^.highlight .sh {$/;"	kind:c	line:484
+.highlight .si	_site/assets/css/style.css	/^.highlight .si {$/;"	kind:c	line:487
+.highlight .sr	_site/assets/css/style.css	/^.highlight .sr {$/;"	kind:c	line:493
+.highlight .ss	_site/assets/css/style.css	/^.highlight .ss {$/;"	kind:c	line:499
+.highlight .sx	_site/assets/css/style.css	/^.highlight .sx {$/;"	kind:c	line:490
+.highlight .vc	_site/assets/css/style.css	/^.highlight .vc {$/;"	kind:c	line:505
+.highlight .vg	_site/assets/css/style.css	/^.highlight .vg {$/;"	kind:c	line:508
+.highlight .vi	_site/assets/css/style.css	/^.highlight .vi {$/;"	kind:c	line:511
+.highlight .w	_site/assets/css/style.css	/^.highlight .w {$/;"	kind:c	line:454
+.highlight .x	_site/assets/css/style.css	/^.highlight .x {$/;"	kind:c	line:332
+.icon-calendar:before	_site/assets/css/style.css	/^.icon-calendar:before {$/;"	kind:c	line:47
+.icon-github-circled:before	_site/assets/css/style.css	/^.icon-github-circled:before {$/;"	kind:c	line:50
+.icon-linkedin-squared:before	_site/assets/css/style.css	/^.icon-linkedin-squared:before {$/;"	kind:c	line:56
+.icon-twitter-squared:before	_site/assets/css/style.css	/^.icon-twitter-squared:before {$/;"	kind:c	line:53
+.navbar	_site/assets/css/style.css	/^.navbar {$/;"	kind:c	line:804
+.navbar a	_site/assets/css/style.css	/^.navbar a {$/;"	kind:s	line:810
+.navbar ul	_site/assets/css/style.css	/^.navbar ul {$/;"	kind:s	line:813
+.navbar ul li	_site/assets/css/style.css	/^  .navbar ul li {$/;"	kind:s	line:827
+.navbar ul li	_site/assets/css/style.css	/^  .navbar ul li {$/;"	kind:s	line:832
+.navbar ul li	_site/assets/css/style.css	/^.navbar ul li {$/;"	kind:s	line:816
+.navbar ul li.active	_site/assets/css/style.css	/^.navbar ul li.active {$/;"	kind:c	line:840
+.navbar ul li:hover	_site/assets/css/style.css	/^.navbar ul li:hover {$/;"	kind:s	line:836
+.navbar ul li:not(:first-child)	_site/assets/css/style.css	/^.navbar ul li:not(:first-child) {$/;"	kind:s	line:823
+.post-container	_site/assets/css/style.css	/^.posts, .post-container {$/;"	kind:c	line:787
+.post-container img	_site/assets/css/style.css	/^.post-container img {$/;"	kind:s	line:800
+.post-date	_site/assets/css/style.css	/^.post-date {$/;"	kind:c	line:741
+.post-date .icon-calendar	_site/assets/css/style.css	/^.post-date .icon-calendar {$/;"	kind:c	line:744
+.post-description	_site/assets/css/style.css	/^.post-description {$/;"	kind:c	line:734
+.post-meta	_site/assets/css/style.css	/^.post-meta {$/;"	kind:c	line:791
+.post-meta a:hover	_site/assets/css/style.css	/^.post-meta a:hover {$/;"	kind:s	line:796
+.post-tags	_site/assets/css/style.css	/^.post-tags {$/;"	kind:c	line:748
+.post-tags li	_site/assets/css/style.css	/^  .post-tags li {$/;"	kind:s	line:762
+.post-tags li	_site/assets/css/style.css	/^  .post-tags li {$/;"	kind:s	line:767
+.post-tags li	_site/assets/css/style.css	/^.post-tags li {$/;"	kind:s	line:752
+.post-tags li:first-child	_site/assets/css/style.css	/^.post-tags li:first-child {$/;"	kind:s	line:771
+.post-title	_site/assets/css/style.css	/^.post-title {$/;"	kind:c	line:724
+.post-title:hover	_site/assets/css/style.css	/^.post-title:hover {$/;"	kind:c	line:729
+.posts	_site/assets/css/style.css	/^.posts {$/;"	kind:c	line:775
+.posts	_site/assets/css/style.css	/^.posts, .post-container {$/;"	kind:c	line:787
+.posts > li	_site/assets/css/style.css	/^.posts > li {$/;"	kind:s	line:779
+.posts > li:not(:last-child)	_site/assets/css/style.css	/^.posts > li:not(:last-child) {$/;"	kind:s	line:783
+.texture-black	_site/assets/css/style.css	/^.texture-black {$/;"	kind:c	line:844
+.texture-black h2	_site/assets/css/style.css	/^.texture-black h2 {$/;"	kind:s	line:847
+.texture-blue	_site/assets/css/style.css	/^.texture-blue {$/;"	kind:c	line:851
+.texture-blue .post-date	_site/assets/css/style.css	/^.texture-blue .post-date {$/;"	kind:c	line:860
+.texture-blue .social i:hover	_site/assets/css/style.css	/^.texture-blue .social i:hover {$/;"	kind:s	line:857
+.texture-blue h2	_site/assets/css/style.css	/^.texture-blue h2 {$/;"	kind:s	line:854
+.texture-green	_site/assets/css/style.css	/^.texture-green {$/;"	kind:c	line:872
+.texture-green .post-date	_site/assets/css/style.css	/^.texture-green .post-date {$/;"	kind:c	line:875
+.texture-purple	_site/assets/css/style.css	/^.texture-purple {$/;"	kind:c	line:868
+.texture-purple .post-date	_site/assets/css/style.css	/^.texture-purple .post-date {$/;"	kind:c	line:892
+.texture-purple .social i	_site/assets/css/style.css	/^.texture-purple .social i {$/;"	kind:s	line:884
+.texture-purple .social i:hover	_site/assets/css/style.css	/^.texture-purple .social i:hover {$/;"	kind:s	line:888
+.texture-purple h2	_site/assets/css/style.css	/^.texture-purple h2 {$/;"	kind:s	line:880
+.texture-red	_site/assets/css/style.css	/^.texture-red {$/;"	kind:c	line:864
+.texture-red .post-date	_site/assets/css/style.css	/^.texture-red .post-date,$/;"	kind:c	line:891
+.texture-red .social i	_site/assets/css/style.css	/^.texture-red .social i,$/;"	kind:s	line:883
+.texture-red .social i:hover	_site/assets/css/style.css	/^.texture-red .social i:hover,$/;"	kind:s	line:887
+.texture-red h2	_site/assets/css/style.css	/^.texture-red h2,$/;"	kind:s	line:879
+404	404.html	/^	<h1>404<\/h1>$/;"	kind:h	line:36
+404	_site/404.html	/^  <h1>404<\/h1>$/;"	kind:h	line:16
+:before	_site/assets/css/style.css	/^[class^=icon-]:before, [class*=" icon-"]:before {$/;"	kind:s	line:19
+About	_site/about/index.html	/^<title>About<\/title>$/;"	kind:j	line:8
+About | Your awesome title	_site/about/index.html	/^<title>About | Your awesome title<\/title>$/;"	kind:j	line:10
+Contributing	README.md	/^## Contributing$/;"	kind:s	line:127	chapter:texture
+Development	README.md	/^## Development$/;"	kind:s	line:131	chapter:texture
+Donation	README.md	/^## Donation$/;"	kind:s	line:140	chapter:texture
+Hello, Jekyll	_site/2019/05/23/test.html	/^	<h1>Hello, Jekyll<\/h1>$/;"	kind:h	line:36
+Hello, Jekyll	_site/2019/05/23/test.html	/^<title>Hello, Jekyll<\/title>$/;"	kind:j	line:8
+Hello, Jekyll	_site/index.html	/^				<h2 class="post-title">Hello, Jekyll<\/h2>$/;"	kind:i	line:52
+Hello, Jekyll | Your awesome title	_site/2019/05/23/test.html	/^<title>Hello, Jekyll | Your awesome title<\/title>$/;"	kind:j	line:10
+Installation	README.md	/^## Installation$/;"	kind:s	line:18	chapter:texture
+Installation on Github Pages	README.md	/^## Installation on Github Pages$/;"	kind:s	line:10	chapter:texture
+License	README.md	/^## License$/;"	kind:s	line:145	chapter:texture
+More Themes	README.md	/^## More Themes$/;"	kind:s	line:149	chapter:texture
+Rui Teng	_site/about/index.html	/^	<h1>Rui Teng<\/h1>$/;"	kind:h	line:35
+Rui Teng	_site/index.html	/^	<h1>Rui Teng<\/h1>$/;"	kind:h	line:35
+Software Developer	_site/about/index.html	/^	<h2>Software Developer<\/h2>$/;"	kind:i	line:36
+Software Developer	_site/index.html	/^	<h2>Software Developer<\/h2>$/;"	kind:i	line:36
+Usage	README.md	/^## Usage$/;"	kind:s	line:40	chapter:texture
+Welcome to Jekyll!	_site/index.html	/^				<h2 class="post-title">Welcome to Jekyll!<\/h2>$/;"	kind:i	line:44
+Welcome to Jekyll!	_site/jekyll/update/2023/01/18/welcome-to-jekyll.html	/^	<h1>Welcome to Jekyll!<\/h1>$/;"	kind:h	line:36
+Welcome to Jekyll!	_site/jekyll/update/2023/01/18/welcome-to-jekyll.html	/^<title>Welcome to Jekyll!<\/title>$/;"	kind:j	line:8
+Welcome to Jekyll! | Your awesome title	_site/jekyll/update/2023/01/18/welcome-to-jekyll.html	/^<title>Welcome to Jekyll! | Your awesome title<\/title>$/;"	kind:j	line:10
+Your awesome title	_site/index.html	/^<title>Your awesome title<\/title>$/;"	kind:j	line:8
+Your awesome title | Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.	_site/index.html	/^<title>Your awesome title | Write an awesome description for your new site here. You can edit th/;"	kind:j	line:10
+a	_site/assets/css/style.css	/^a {$/;"	kind:s	line:104
+a	_site/assets/css/style.css	/^a {$/;"	kind:s	line:562
+a:active	_site/assets/css/style.css	/^a:active,$/;"	kind:s	line:108
+a:hover	_site/assets/css/style.css	/^a:hover {$/;"	kind:s	line:109
+a:hover	_site/assets/css/style.css	/^a:hover {$/;"	kind:s	line:567
+abbr[title]	_site/assets/css/style.css	/^abbr[title] {$/;"	kind:s	line:113
+active	_sass/theme.scss	/^			&.active {$/;"	kind:c	line:252
+article	_site/assets/css/style.css	/^article,$/;"	kind:s	line:70
+aside	_site/assets/css/style.css	/^aside,$/;"	kind:s	line:71
+audio	_site/assets/css/style.css	/^audio,$/;"	kind:s	line:86
+audio:not([controls] )	_site/assets/css/style.css	/^audio:not([controls]) {$/;"	kind:s	line:94
+b	_site/assets/css/style.css	/^b,$/;"	kind:s	line:117
+bigScreenW	_sass/theme.scss	/^$bigScreenW: 1600px;$/;"	kind:v	line:9
+black	_includes/footer.html	/^		<div id="black"><\/div>$/;"	kind:I	line:19
+black	assets/css/style.scss	/^    #black { background-color: #111; }$/;"	kind:i	line:49
+blue	_includes/footer.html	/^		<div id="blue"><\/div>	$/;"	kind:I	line:20
+blue	assets/css/style.scss	/^    #blue { background-color: lightblue; }$/;"	kind:i	line:48
+body	_site/assets/css/style.css	/^  body {$/;"	kind:s	line:552
+body	_site/assets/css/style.css	/^  body {$/;"	kind:s	line:557
+body	_site/assets/css/style.css	/^body {$/;"	kind:s	line:543
+body	_site/assets/css/style.css	/^body {$/;"	kind:s	line:66
+bp	_sass/ext/_solarized-light.scss	/^.highlight .bp { color: #268bd2 } \/* Name.Builtin.Pseudo *\/$/;"	kind:c	line:80
+button	_site/assets/css/style.css	/^button {$/;"	kind:s	line:196
+button	_site/assets/css/style.css	/^button,$/;"	kind:s	line:186
+button	_site/assets/css/style.css	/^button,$/;"	kind:s	line:200
+button	_site/assets/css/style.css	/^button,$/;"	kind:s	line:205
+button::-moz-focus-inner	_site/assets/css/style.css	/^button::-moz-focus-inner,$/;"	kind:s	line:218
+button[disabled]	_site/assets/css/style.css	/^button[disabled],$/;"	kind:s	line:213
+c	_sass/ext/_solarized-light.scss	/^.highlight .c { color: #93a1a1 } \/* Comment *\/$/;"	kind:c	line:17
+c1	_sass/ext/_solarized-light.scss	/^.highlight .c1 { color: #93a1a1 } \/* Comment.Single *\/$/;"	kind:c	line:28
+canvas	_site/assets/css/style.css	/^canvas,$/;"	kind:s	line:87
+class	_site/assets/css/style.css	/^[class^=icon-]:before, [class*=" icon-"]:before {$/;"	kind:s	line:19
+class*	_site/assets/css/style.css	/^[class^=icon-]:before, [class*=" icon-"]:before {$/;"	kind:s	line:19
+clearfix	_sass/theme.scss	/^.clearfix {$/;"	kind:c	line:97
+cm	_sass/ext/_solarized-light.scss	/^.highlight .cm { color: #93a1a1 } \/* Comment.Multiline *\/$/;"	kind:c	line:26
+code	_site/assets/css/style.css	/^code,$/;"	kind:s	line:178
+code	_site/assets/css/style.css	/^pre.highlight, code {$/;"	kind:s	line:532
+container	_sass/theme.scss	/^.container {$/;"	kind:c	line:104
+cp	_sass/ext/_solarized-light.scss	/^.highlight .cp { color: #859900 } \/* Comment.Preproc *\/$/;"	kind:c	line:27
+cs	_sass/ext/_solarized-light.scss	/^.highlight .cs { color: #859900 } \/* Comment.Special *\/$/;"	kind:c	line:29
+desktopWidth	_sass/_begin.scss	/^$desktopWidth: 1024px;$/;"	kind:v	line:6
+details	_site/assets/css/style.css	/^details,$/;"	kind:s	line:72
+dfn	_site/assets/css/style.css	/^dfn {$/;"	kind:s	line:122
+disqus_thread	_layouts/post.html	/^        <div id="disqus_thread" style="margin-top:25px"><\/div>$/;"	kind:I	line:21
+div.highlight	_site/assets/css/style.css	/^div.highlight {$/;"	kind:c	line:528
+div.highlighter-rouge	_site/assets/css/style.css	/^div.highlighter-rouge {$/;"	kind:c	line:517
+embed	_site/assets/css/style.css	/^img, embed, object, video {$/;"	kind:s	line:284
+err	_sass/ext/_solarized-light.scss	/^.highlight .err { color: #586e75 } \/* Error *\/$/;"	kind:c	line:18
+fieldset	_site/assets/css/style.css	/^fieldset {$/;"	kind:s	line:251
+figcaption	_site/assets/css/style.css	/^figcaption {$/;"	kind:s	line:619
+figcaption	_site/assets/css/style.css	/^figcaption,$/;"	kind:s	line:73
+figure	_site/assets/css/style.css	/^figure {$/;"	kind:s	line:164
+figure	_site/assets/css/style.css	/^figure,$/;"	kind:s	line:74
+fluidType	_sass/_begin.scss	/^@mixin fluidType($min, $max ) {$/;"	kind:m	line:23
+fontello	_site/assets/font/fontello.svg	/^<font id="fontello" horiz-adv-x="1000" >$/;"	kind:d	line:6
+fontello	_site/assets/font/fontello.svg	/^<font id="fontello" horiz-adv-x="1000" >$/;"	kind:i	line:6
+fontello	assets/font/fontello.svg	/^<font id="fontello" horiz-adv-x="1000" >$/;"	kind:d	line:6
+fontello	assets/font/fontello.svg	/^<font id="fontello" horiz-adv-x="1000" >$/;"	kind:i	line:6
+footer	_site/assets/css/style.css	/^footer,$/;"	kind:s	line:75
+g	_sass/ext/_solarized-light.scss	/^.highlight .g { color: #586e75 } \/* Generic *\/$/;"	kind:c	line:19
+gd	_sass/ext/_solarized-light.scss	/^.highlight .gd { color: #2aa198 } \/* Generic.Deleted *\/$/;"	kind:c	line:30
+ge	_sass/ext/_solarized-light.scss	/^.highlight .ge { color: #586e75; font-style: italic } \/* Generic.Emph *\/$/;"	kind:c	line:31
+gh	_sass/ext/_solarized-light.scss	/^.highlight .gh { color: #cb4b16 } \/* Generic.Heading *\/$/;"	kind:c	line:33
+gi	_sass/ext/_solarized-light.scss	/^.highlight .gi { color: #859900 } \/* Generic.Inserted *\/$/;"	kind:c	line:34
+go	_sass/ext/_solarized-light.scss	/^.highlight .go { color: #586e75 } \/* Generic.Output *\/$/;"	kind:c	line:35
+gp	_sass/ext/_solarized-light.scss	/^.highlight .gp { color: #586e75 } \/* Generic.Prompt *\/$/;"	kind:c	line:36
+gr	_sass/ext/_solarized-light.scss	/^.highlight .gr { color: #dc322f } \/* Generic.Error *\/$/;"	kind:c	line:32
+gray	_sass/theme.scss	/^$gray: #999;$/;"	kind:v	line:12
+green	_includes/footer.html	/^		<div id="green"><\/div>$/;"	kind:I	line:23
+green	assets/css/style.scss	/^    #green { background-color: mediumseagreen; }$/;"	kind:i	line:51
+gs	_sass/ext/_solarized-light.scss	/^.highlight .gs { color: #586e75; font-weight: bold } \/* Generic.Strong *\/$/;"	kind:c	line:37
+gt	_sass/ext/_solarized-light.scss	/^.highlight .gt { color: #586e75 } \/* Generic.Traceback *\/$/;"	kind:c	line:39
+gu	_sass/ext/_solarized-light.scss	/^.highlight .gu { color: #cb4b16 } \/* Generic.Subheading *\/$/;"	kind:c	line:38
+h1	_site/assets/css/style.css	/^  h1 {$/;"	kind:s	line:579
+h1	_site/assets/css/style.css	/^  h1 {$/;"	kind:s	line:584
+h1	_site/assets/css/style.css	/^h1 {$/;"	kind:s	line:126
+h1	_site/assets/css/style.css	/^h1 {$/;"	kind:s	line:575
+h1	_site/assets/css/style.css	/^h1, h2, h3 {$/;"	kind:s	line:571
+h2	_site/assets/css/style.css	/^  h2 {$/;"	kind:s	line:594
+h2	_site/assets/css/style.css	/^  h2 {$/;"	kind:s	line:599
+h2	_site/assets/css/style.css	/^h1, h2, h3 {$/;"	kind:s	line:571
+h2	_site/assets/css/style.css	/^h2 {$/;"	kind:s	line:589
+h3	_site/assets/css/style.css	/^h1, h2, h3 {$/;"	kind:s	line:571
+h4	_site/assets/css/style.css	/^  h4 {$/;"	kind:s	line:609
+h4	_site/assets/css/style.css	/^  h4 {$/;"	kind:s	line:614
+h4	_site/assets/css/style.css	/^h4 {$/;"	kind:s	line:604
+header	_site/assets/css/style.css	/^header {$/;"	kind:s	line:625
+header	_site/assets/css/style.css	/^header,$/;"	kind:s	line:76
+header .social	_site/assets/css/style.css	/^header .social {$/;"	kind:c	line:637
+header .social li	_site/assets/css/style.css	/^header .social li {$/;"	kind:s	line:643
+header .social li i	_site/assets/css/style.css	/^  header .social li i {$/;"	kind:s	line:655
+header .social li i	_site/assets/css/style.css	/^  header .social li i {$/;"	kind:s	line:660
+header .social li i	_site/assets/css/style.css	/^header .social li i {$/;"	kind:s	line:647
+header .social li i:first-child::before	_site/assets/css/style.css	/^header .social li i:first-child::before {$/;"	kind:s	line:651
+header .social li i:hover	_site/assets/css/style.css	/^header .social li i:hover {$/;"	kind:s	line:664
+header h1	_site/assets/css/style.css	/^header h1 {$/;"	kind:s	line:634
+header h2	_site/assets/css/style.css	/^header h2 {$/;"	kind:s	line:630
+hgroup	_site/assets/css/style.css	/^hgroup,$/;"	kind:s	line:77
+hidden	_site/assets/css/style.css	/^[hidden],$/;"	kind:s	line:99
+hidePicker	_includes/footer.html	/^		<p><a id="hidePicker" href="#">Hide<\/a><\/p>$/;"	kind:I	line:16
+highlight	_sass/_syntax.scss	/^.highlight {$/;"	kind:c	line:10
+highlight	_sass/_syntax.scss	/^div.highlight {$/;"	kind:c	line:14
+highlight	_sass/_syntax.scss	/^pre.highlight, code {$/;"	kind:c	line:18
+highlight	_sass/ext/_solarized-light.scss	/^.highlight .bp { color: #268bd2 } \/* Name.Builtin.Pseudo *\/$/;"	kind:c	line:80
+highlight	_sass/ext/_solarized-light.scss	/^.highlight .c { color: #93a1a1 } \/* Comment *\/$/;"	kind:c	line:17
+highlight	_sass/ext/_solarized-light.scss	/^.highlight .c1 { color: #93a1a1 } \/* Comment.Single *\/$/;"	kind:c	line:28
+highlight	_sass/ext/_solarized-light.scss	/^.highlight .cm { color: #93a1a1 } \/* Comment.Multiline *\/$/;"	kind:c	line:26
+highlight	_sass/ext/_solarized-light.scss	/^.highlight .cp { color: #859900 } \/* Comment.Preproc *\/$/;"	kind:c	line:27
+highlight	_sass/ext/_solarized-light.scss	/^.highlight .cs { color: #859900 } \/* Comment.Special *\/$/;"	kind:c	line:29
+highlight	_sass/ext/_solarized-light.scss	/^.highlight .err { color: #586e75 } \/* Error *\/$/;"	kind:c	line:18
+highlight	_sass/ext/_solarized-light.scss	/^.highlight .g { color: #586e75 } \/* Generic *\/$/;"	kind:c	line:19
+highlight	_sass/ext/_solarized-light.scss	/^.highlight .gd { color: #2aa198 } \/* Generic.Deleted *\/$/;"	kind:c	line:30
+highlight	_sass/ext/_solarized-light.scss	/^.highlight .ge { color: #586e75; font-style: italic } \/* Generic.Emph *\/$/;"	kind:c	line:31
+highlight	_sass/ext/_solarized-light.scss	/^.highlight .gh { color: #cb4b16 } \/* Generic.Heading *\/$/;"	kind:c	line:33
+highlight	_sass/ext/_solarized-light.scss	/^.highlight .gi { color: #859900 } \/* Generic.Inserted *\/$/;"	kind:c	line:34
+highlight	_sass/ext/_solarized-light.scss	/^.highlight .go { color: #586e75 } \/* Generic.Output *\/$/;"	kind:c	line:35
+highlight	_sass/ext/_solarized-light.scss	/^.highlight .gp { color: #586e75 } \/* Generic.Prompt *\/$/;"	kind:c	line:36
+highlight	_sass/ext/_solarized-light.scss	/^.highlight .gr { color: #dc322f } \/* Generic.Error *\/$/;"	kind:c	line:32
+highlight	_sass/ext/_solarized-light.scss	/^.highlight .gs { color: #586e75; font-weight: bold } \/* Generic.Strong *\/$/;"	kind:c	line:37
+highlight	_sass/ext/_solarized-light.scss	/^.highlight .gt { color: #586e75 } \/* Generic.Traceback *\/$/;"	kind:c	line:39
+highlight	_sass/ext/_solarized-light.scss	/^.highlight .gu { color: #cb4b16 } \/* Generic.Subheading *\/$/;"	kind:c	line:38
+highlight	_sass/ext/_solarized-light.scss	/^.highlight .il { color: #2aa198 } \/* Literal.Number.Integer.Long *\/$/;"	kind:c	line:84
+highlight	_sass/ext/_solarized-light.scss	/^.highlight .k { color: #859900 } \/* Keyword *\/$/;"	kind:c	line:20
+highlight	_sass/ext/_solarized-light.scss	/^.highlight .kc { color: #cb4b16 } \/* Keyword.Constant *\/$/;"	kind:c	line:40
+highlight	_sass/ext/_solarized-light.scss	/^.highlight .kd { color: #268bd2 } \/* Keyword.Declaration *\/$/;"	kind:c	line:41
+highlight	_sass/ext/_solarized-light.scss	/^.highlight .kn { color: #859900 } \/* Keyword.Namespace *\/$/;"	kind:c	line:42
+highlight	_sass/ext/_solarized-light.scss	/^.highlight .kp { color: #859900 } \/* Keyword.Pseudo *\/$/;"	kind:c	line:43
+highlight	_sass/ext/_solarized-light.scss	/^.highlight .kr { color: #268bd2 } \/* Keyword.Reserved *\/$/;"	kind:c	line:44
+highlight	_sass/ext/_solarized-light.scss	/^.highlight .kt { color: #dc322f } \/* Keyword.Type *\/$/;"	kind:c	line:45
+highlight	_sass/ext/_solarized-light.scss	/^.highlight .l { color: #586e75 } \/* Literal *\/$/;"	kind:c	line:21
+highlight	_sass/ext/_solarized-light.scss	/^.highlight .ld { color: #586e75 } \/* Literal.Date *\/$/;"	kind:c	line:46
+highlight	_sass/ext/_solarized-light.scss	/^.highlight .m { color: #2aa198 } \/* Literal.Number *\/$/;"	kind:c	line:47
+highlight	_sass/ext/_solarized-light.scss	/^.highlight .mf { color: #2aa198 } \/* Literal.Number.Float *\/$/;"	kind:c	line:65
+highlight	_sass/ext/_solarized-light.scss	/^.highlight .mh { color: #2aa198 } \/* Literal.Number.Hex *\/$/;"	kind:c	line:66
+highlight	_sass/ext/_solarized-light.scss	/^.highlight .mi { color: #2aa198 } \/* Literal.Number.Integer *\/$/;"	kind:c	line:67
+highlight	_sass/ext/_solarized-light.scss	/^.highlight .mo { color: #2aa198 } \/* Literal.Number.Oct *\/$/;"	kind:c	line:68
+highlight	_sass/ext/_solarized-light.scss	/^.highlight .n { color: #586e75 } \/* Name *\/$/;"	kind:c	line:22
+highlight	_sass/ext/_solarized-light.scss	/^.highlight .na { color: #586e75 } \/* Name.Attribute *\/$/;"	kind:c	line:49
+highlight	_sass/ext/_solarized-light.scss	/^.highlight .nb { color: #B58900 } \/* Name.Builtin *\/$/;"	kind:c	line:50
+highlight	_sass/ext/_solarized-light.scss	/^.highlight .nc { color: #268bd2 } \/* Name.Class *\/$/;"	kind:c	line:51
+highlight	_sass/ext/_solarized-light.scss	/^.highlight .nd { color: #268bd2 } \/* Name.Decorator *\/$/;"	kind:c	line:53
+highlight	_sass/ext/_solarized-light.scss	/^.highlight .ne { color: #cb4b16 } \/* Name.Exception *\/$/;"	kind:c	line:55
+highlight	_sass/ext/_solarized-light.scss	/^.highlight .nf { color: #268bd2 } \/* Name.Function *\/$/;"	kind:c	line:56
+highlight	_sass/ext/_solarized-light.scss	/^.highlight .ni { color: #cb4b16 } \/* Name.Entity *\/$/;"	kind:c	line:54
+highlight	_sass/ext/_solarized-light.scss	/^.highlight .nl { color: #586e75 } \/* Name.Label *\/$/;"	kind:c	line:57
+highlight	_sass/ext/_solarized-light.scss	/^.highlight .nn { color: #586e75 } \/* Name.Namespace *\/$/;"	kind:c	line:58
+highlight	_sass/ext/_solarized-light.scss	/^.highlight .no { color: #cb4b16 } \/* Name.Constant *\/$/;"	kind:c	line:52
+highlight	_sass/ext/_solarized-light.scss	/^.highlight .nt { color: #268bd2 } \/* Name.Tag *\/$/;"	kind:c	line:61
+highlight	_sass/ext/_solarized-light.scss	/^.highlight .nv { color: #268bd2 } \/* Name.Variable *\/$/;"	kind:c	line:62
+highlight	_sass/ext/_solarized-light.scss	/^.highlight .nx { color: #586e75 } \/* Name.Other *\/$/;"	kind:c	line:59
+highlight	_sass/ext/_solarized-light.scss	/^.highlight .o { color: #859900 } \/* Operator *\/$/;"	kind:c	line:23
+highlight	_sass/ext/_solarized-light.scss	/^.highlight .ow { color: #859900 } \/* Operator.Word *\/$/;"	kind:c	line:63
+highlight	_sass/ext/_solarized-light.scss	/^.highlight .p { color: #586e75 } \/* Punctuation *\/$/;"	kind:c	line:25
+highlight	_sass/ext/_solarized-light.scss	/^.highlight .py { color: #586e75 } \/* Name.Property *\/$/;"	kind:c	line:60
+highlight	_sass/ext/_solarized-light.scss	/^.highlight .s { color: #2aa198 } \/* Literal.String *\/$/;"	kind:c	line:48
+highlight	_sass/ext/_solarized-light.scss	/^.highlight .s1 { color: #2aa198 } \/* Literal.String.Single *\/$/;"	kind:c	line:78
+highlight	_sass/ext/_solarized-light.scss	/^.highlight .s2 { color: #2aa198 } \/* Literal.String.Double *\/$/;"	kind:c	line:72
+highlight	_sass/ext/_solarized-light.scss	/^.highlight .sb { color: #93a1a1 } \/* Literal.String.Backtick *\/$/;"	kind:c	line:69
+highlight	_sass/ext/_solarized-light.scss	/^.highlight .sc { color: #2aa198 } \/* Literal.String.Char *\/$/;"	kind:c	line:70
+highlight	_sass/ext/_solarized-light.scss	/^.highlight .sd { color: #586e75 } \/* Literal.String.Doc *\/$/;"	kind:c	line:71
+highlight	_sass/ext/_solarized-light.scss	/^.highlight .se { color: #cb4b16 } \/* Literal.String.Escape *\/$/;"	kind:c	line:73
+highlight	_sass/ext/_solarized-light.scss	/^.highlight .sh { color: #586e75 } \/* Literal.String.Heredoc *\/$/;"	kind:c	line:74
+highlight	_sass/ext/_solarized-light.scss	/^.highlight .si { color: #2aa198 } \/* Literal.String.Interpol *\/$/;"	kind:c	line:75
+highlight	_sass/ext/_solarized-light.scss	/^.highlight .sr { color: #dc322f } \/* Literal.String.Regex *\/$/;"	kind:c	line:77
+highlight	_sass/ext/_solarized-light.scss	/^.highlight .ss { color: #2aa198 } \/* Literal.String.Symbol *\/$/;"	kind:c	line:79
+highlight	_sass/ext/_solarized-light.scss	/^.highlight .sx { color: #2aa198 } \/* Literal.String.Other *\/$/;"	kind:c	line:76
+highlight	_sass/ext/_solarized-light.scss	/^.highlight .vc { color: #268bd2 } \/* Name.Variable.Class *\/$/;"	kind:c	line:81
+highlight	_sass/ext/_solarized-light.scss	/^.highlight .vg { color: #268bd2 } \/* Name.Variable.Global *\/$/;"	kind:c	line:82
+highlight	_sass/ext/_solarized-light.scss	/^.highlight .vi { color: #268bd2 } \/* Name.Variable.Instance *\/$/;"	kind:c	line:83
+highlight	_sass/ext/_solarized-light.scss	/^.highlight .w { color: #586e75 } \/* Text.Whitespace *\/$/;"	kind:c	line:64
+highlight	_sass/ext/_solarized-light.scss	/^.highlight .x { color: #cb4b16 } \/* Other *\/$/;"	kind:c	line:24
+highlight	_sass/ext/_solarized-light.scss	/^.highlight { background-color: #fdf6e3; color: #586e75 }$/;"	kind:c	line:16
+highlight	_sass/theme.scss	/^		div.highlight {$/;"	kind:c	line:117
+highlight	_sass/theme.scss	/^		div.highlight {$/;"	kind:c	line:127
+highlight	_sass/theme.scss	/^		div.highlight {$/;"	kind:c	line:137
+highlight	_sass/theme.scss	/^		div.highlight {$/;"	kind:c	line:147
+highlighter-rouge	_sass/_syntax.scss	/^div.highlighter-rouge {$/;"	kind:c	line:3
+highlighter-rouge	_sass/theme.scss	/^		div.highlighter-rouge {$/;"	kind:c	line:114
+highlighter-rouge	_sass/theme.scss	/^		div.highlighter-rouge {$/;"	kind:c	line:124
+highlighter-rouge	_sass/theme.scss	/^		div.highlighter-rouge {$/;"	kind:c	line:134
+highlighter-rouge	_sass/theme.scss	/^		div.highlighter-rouge {$/;"	kind:c	line:144
+highlighter-rouge	_sass/theme.scss	/^	div.highlighter-rouge {$/;"	kind:c	line:108
+hr	_site/assets/css/style.css	/^hr {$/;"	kind:s	line:168
+html	_site/assets/css/style.css	/^html {$/;"	kind:s	line:60
+html input[disabled]	_site/assets/css/style.css	/^html input[disabled] {$/;"	kind:s	line:214
+html input[type=button]	_site/assets/css/style.css	/^html input[type=button],$/;"	kind:s	line:206
+icon-	_site/assets/css/style.css	/^[class^=icon-]:before, [class*=" icon-"]:before {$/;"	kind:s	line:19
+icon-calendar	_sass/ext/_fonts.scss	/^.icon-calendar:before { content: '\\e800'; } \/* '' *\/$/;"	kind:c	line:58
+icon-calendar	_sass/theme.scss	/^	.icon-calendar {$/;"	kind:c	line:173
+icon-github-circled	_sass/ext/_fonts.scss	/^.icon-github-circled:before { content: '\\f09b'; } \/* '' *\/$/;"	kind:c	line:59
+icon-linkedin-squared	_sass/ext/_fonts.scss	/^.icon-linkedin-squared:before { content: '\\f30c'; } \/* '' *\//;"	kind:c	line:61
+icon-twitter-squared	_sass/ext/_fonts.scss	/^.icon-twitter-squared:before { content: '\\f304'; } \/* '' *\/$/;"	kind:c	line:60
+il	_sass/ext/_solarized-light.scss	/^.highlight .il { color: #2aa198 } \/* Literal.Number.Integer.Long *\/$/;"	kind:c	line:84
+img	_site/assets/css/style.css	/^img {$/;"	kind:s	line:156
+img	_site/assets/css/style.css	/^img, embed, object, video {$/;"	kind:s	line:284
+info	assets/css/style.scss	/^    .info {$/;"	kind:c	line:24
+input	_site/assets/css/style.css	/^input {$/;"	kind:s	line:224
+input	_site/assets/css/style.css	/^input,$/;"	kind:s	line:187
+input::-moz-focus-inner	_site/assets/css/style.css	/^input::-moz-focus-inner {$/;"	kind:s	line:219
+input[type=checkbox]	_site/assets/css/style.css	/^input[type=checkbox],$/;"	kind:s	line:228
+input[type=number] ::-webkit-inner-spin-button	_site/assets/css/style.css	/^input[type=number]::-webkit-inner-spin-button,$/;"	kind:s	line:234
+input[type=number] ::-webkit-outer-spin-button	_site/assets/css/style.css	/^input[type=number]::-webkit-outer-spin-button {$/;"	kind:s	line:235
+input[type=radio]	_site/assets/css/style.css	/^input[type=radio] {$/;"	kind:s	line:229
+input[type=reset]	_site/assets/css/style.css	/^input[type=reset],$/;"	kind:s	line:207
+input[type=search]	_site/assets/css/style.css	/^input[type=search] {$/;"	kind:s	line:239
+input[type=search] ::-webkit-search-cancel-button	_site/assets/css/style.css	/^input[type=search]::-webkit-search-cancel-button,$/;"	kind:s	line:246
+input[type=search] ::-webkit-search-decoration	_site/assets/css/style.css	/^input[type=search]::-webkit-search-decoration {$/;"	kind:s	line:247
+input[type=submit]	_site/assets/css/style.css	/^input[type=submit] {$/;"	kind:s	line:208
+k	_sass/ext/_solarized-light.scss	/^.highlight .k { color: #859900 } \/* Keyword *\/$/;"	kind:c	line:20
+kbd	_site/assets/css/style.css	/^kbd,$/;"	kind:s	line:179
+kc	_sass/ext/_solarized-light.scss	/^.highlight .kc { color: #cb4b16 } \/* Keyword.Constant *\/$/;"	kind:c	line:40
+kd	_sass/ext/_solarized-light.scss	/^.highlight .kd { color: #268bd2 } \/* Keyword.Declaration *\/$/;"	kind:c	line:41
+kn	_sass/ext/_solarized-light.scss	/^.highlight .kn { color: #859900 } \/* Keyword.Namespace *\/$/;"	kind:c	line:42
+kp	_sass/ext/_solarized-light.scss	/^.highlight .kp { color: #859900 } \/* Keyword.Pseudo *\/$/;"	kind:c	line:43
+kr	_sass/ext/_solarized-light.scss	/^.highlight .kr { color: #268bd2 } \/* Keyword.Reserved *\/$/;"	kind:c	line:44
+kt	_sass/ext/_solarized-light.scss	/^.highlight .kt { color: #dc322f } \/* Keyword.Type *\/$/;"	kind:c	line:45
+l	_sass/ext/_solarized-light.scss	/^.highlight .l { color: #586e75 } \/* Literal *\/$/;"	kind:c	line:21
+ld	_sass/ext/_solarized-light.scss	/^.highlight .ld { color: #586e75 } \/* Literal.Date *\/$/;"	kind:c	line:46
+leftWidth	_sass/theme.scss	/^$leftWidth: 220px;$/;"	kind:v	line:10
+legend	_site/assets/css/style.css	/^legend {$/;"	kind:s	line:257
+lightGray	_sass/theme.scss	/^$lightGray: #eee;$/;"	kind:v	line:13
+linkColor	_sass/theme.scss	/^$linkColor: #999;$/;"	kind:v	line:6
+m	_sass/ext/_solarized-light.scss	/^.highlight .m { color: #2aa198 } \/* Literal.Number *\/$/;"	kind:c	line:47
+main	_site/assets/css/style.css	/^main {$/;"	kind:s	line:288
+main	_site/assets/css/style.css	/^main,$/;"	kind:s	line:78
+mark	_site/assets/css/style.css	/^mark {$/;"	kind:s	line:131
+max	_sass/_begin.scss	/^@mixin fluidType($min, $max ) {$/;"	kind:z	line:23
+maxSupportedWidth	_sass/_begin.scss	/^$maxSupportedWidth: 1280px;$/;"	kind:v	line:2
+menu	_site/assets/css/style.css	/^menu,$/;"	kind:s	line:79
+mf	_sass/ext/_solarized-light.scss	/^.highlight .mf { color: #2aa198 } \/* Literal.Number.Float *\/$/;"	kind:c	line:65
+mh	_sass/ext/_solarized-light.scss	/^.highlight .mh { color: #2aa198 } \/* Literal.Number.Hex *\/$/;"	kind:c	line:66
+mi	_sass/ext/_solarized-light.scss	/^.highlight .mi { color: #2aa198 } \/* Literal.Number.Integer *\/$/;"	kind:c	line:67
+min	_sass/_begin.scss	/^@mixin fluidType($min, $max ) {$/;"	kind:z	line:23
+minSupportedWidth	_sass/_begin.scss	/^$minSupportedWidth: 320px;$/;"	kind:v	line:1
+mo	_sass/ext/_solarized-light.scss	/^.highlight .mo { color: #2aa198 } \/* Literal.Number.Oct *\/$/;"	kind:c	line:68
+mobileW	_sass/theme.scss	/^$mobileW: 768px;$/;"	kind:v	line:7
+mobileWidth	_sass/_begin.scss	/^$mobileWidth: 540px;$/;"	kind:v	line:4
+n	_sass/ext/_solarized-light.scss	/^.highlight .n { color: #586e75 } \/* Name *\/$/;"	kind:c	line:22
+na	_sass/ext/_solarized-light.scss	/^.highlight .na { color: #586e75 } \/* Name.Attribute *\/$/;"	kind:c	line:49
+nav	_site/assets/css/style.css	/^nav,$/;"	kind:s	line:80
+navbar	_sass/theme.scss	/^.navbar {$/;"	kind:c	line:226
+nb	_sass/ext/_solarized-light.scss	/^.highlight .nb { color: #B58900 } \/* Name.Builtin *\/$/;"	kind:c	line:50
+nc	_sass/ext/_solarized-light.scss	/^.highlight .nc { color: #268bd2 } \/* Name.Class *\/$/;"	kind:c	line:51
+nd	_sass/ext/_solarized-light.scss	/^.highlight .nd { color: #268bd2 } \/* Name.Decorator *\/$/;"	kind:c	line:53
+ne	_sass/ext/_solarized-light.scss	/^.highlight .ne { color: #cb4b16 } \/* Name.Exception *\/$/;"	kind:c	line:55
+nf	_sass/ext/_solarized-light.scss	/^.highlight .nf { color: #268bd2 } \/* Name.Function *\/$/;"	kind:c	line:56
+ni	_sass/ext/_solarized-light.scss	/^.highlight .ni { color: #cb4b16 } \/* Name.Entity *\/$/;"	kind:c	line:54
+nl	_sass/ext/_solarized-light.scss	/^.highlight .nl { color: #586e75 } \/* Name.Label *\/$/;"	kind:c	line:57
+nn	_sass/ext/_solarized-light.scss	/^.highlight .nn { color: #586e75 } \/* Name.Namespace *\/$/;"	kind:c	line:58
+no	_sass/ext/_solarized-light.scss	/^.highlight .no { color: #cb4b16 } \/* Name.Constant *\/$/;"	kind:c	line:52
+ns55f33d910101	_site/assets/font/fontello.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg">$/;"	kind:n	line:3	uri:http://www.w3.org/2000/svg
+nsa17ebafb0101	_site/feed.xml	/^<?xml version="1.0" encoding="utf-8"?><feed xmlns="http:\/\/www.w3.org\/2005\/Atom" ><generator /;"	kind:n	line:1	uri:http://www.w3.org/2005/Atom
+nsc7e310ae0101	assets/font/fontello.svg	/^<svg xmlns="http:\/\/www.w3.org\/2000\/svg">$/;"	kind:n	line:3	uri:http://www.w3.org/2000/svg
+nsfce5e9a20101	_posts/_site/feed.xml	/^<?xml version="1.0" encoding="utf-8"?><feed xmlns="http:\/\/www.w3.org\/2005\/Atom" ><generator /;"	kind:n	line:1	uri:http://www.w3.org/2005/Atom
+nt	_sass/ext/_solarized-light.scss	/^.highlight .nt { color: #268bd2 } \/* Name.Tag *\/$/;"	kind:c	line:61
+nv	_sass/ext/_solarized-light.scss	/^.highlight .nv { color: #268bd2 } \/* Name.Variable *\/$/;"	kind:c	line:62
+nx	_sass/ext/_solarized-light.scss	/^.highlight .nx { color: #586e75 } \/* Name.Other *\/$/;"	kind:c	line:59
+o	_sass/ext/_solarized-light.scss	/^.highlight .o { color: #859900 } \/* Operator *\/$/;"	kind:c	line:23
+object	_site/assets/css/style.css	/^img, embed, object, video {$/;"	kind:s	line:284
+onclick	_site/assets/js/picker.js	/^	$hidePicker.onclick = function () {$/;"	kind:f	line:18	variable:$hidePicker	signature:()
+onclick	_site/assets/js/picker.js	/^	$picker.onclick = function(e) {$/;"	kind:f	line:11	variable:$picker	signature:(e)
+onclick	assets/js/picker.js	/^	$hidePicker.onclick = function () {$/;"	kind:f	line:18	variable:$hidePicker	signature:()
+onclick	assets/js/picker.js	/^	$picker.onclick = function(e) {$/;"	kind:f	line:11	variable:$picker	signature:(e)
+onload	_site/assets/js/picker.js	/^window.onload = function() {$/;"	kind:f	line:5	variable:window	signature:()
+onload	assets/js/picker.js	/^window.onload = function() {$/;"	kind:f	line:5	variable:window	signature:()
+optgroup	_site/assets/css/style.css	/^optgroup {$/;"	kind:s	line:266
+optgroup	_site/assets/css/style.css	/^optgroup,$/;"	kind:s	line:188
+ow	_sass/ext/_solarized-light.scss	/^.highlight .ow { color: #859900 } \/* Operator.Word *\/$/;"	kind:c	line:63
+p	_sass/ext/_solarized-light.scss	/^.highlight .p { color: #586e75 } \/* Punctuation *\/$/;"	kind:c	line:25
+post-container	_sass/theme.scss	/^.post-container {$/;"	kind:c	line:220
+post-container	_sass/theme.scss	/^.posts, .post-container {$/;"	kind:c	line:207
+post-date	_sass/theme.scss	/^.post-date {$/;"	kind:c	line:171
+post-date	assets/css/style.scss	/^    .post-date {$/;"	kind:c	line:109
+post-date	assets/css/style.scss	/^    .post-date {$/;"	kind:c	line:74
+post-date	assets/css/style.scss	/^    .post-date {$/;"	kind:c	line:90
+post-description	_sass/theme.scss	/^.post-description {$/;"	kind:c	line:163
+post-meta	_sass/theme.scss	/^.post-meta {$/;"	kind:c	line:211
+post-tags	_sass/theme.scss	/^.post-tags {$/;"	kind:c	line:178
+post-title	_sass/theme.scss	/^.post-title {$/;"	kind:c	line:153
+posts	_sass/theme.scss	/^.posts {$/;"	kind:c	line:195
+posts	_sass/theme.scss	/^.posts, .post-container {$/;"	kind:c	line:207
+pre	_site/assets/css/style.css	/^pre {$/;"	kind:s	line:174
+pre	_site/assets/css/style.css	/^pre,$/;"	kind:s	line:180
+pre.highlight	_site/assets/css/style.css	/^pre.highlight, code {$/;"	kind:c	line:532
+progress	_site/assets/css/style.css	/^progress,$/;"	kind:s	line:88
+purple	_includes/footer.html	/^		<div id="purple"><\/div>		$/;"	kind:I	line:22
+purple	assets/css/style.scss	/^    #purple { background-color: rebeccapurple; }$/;"	kind:i	line:50
+py	_sass/ext/_solarized-light.scss	/^.highlight .py { color: #586e75 } \/* Name.Property *\/$/;"	kind:c	line:60
+red	_includes/footer.html	/^		<div id="red"><\/div>	$/;"	kind:I	line:21
+red	assets/css/style.scss	/^    #red {background-color: orangered;}$/;"	kind:i	line:47
+s	_sass/ext/_solarized-light.scss	/^.highlight .s { color: #2aa198 } \/* Literal.String *\/$/;"	kind:c	line:48
+s1	_sass/ext/_solarized-light.scss	/^.highlight .s1 { color: #2aa198 } \/* Literal.String.Single *\/$/;"	kind:c	line:78
+s2	_sass/ext/_solarized-light.scss	/^.highlight .s2 { color: #2aa198 } \/* Literal.String.Double *\/$/;"	kind:c	line:72
+samp	_site/assets/css/style.css	/^samp {$/;"	kind:s	line:181
+sb	_sass/ext/_solarized-light.scss	/^.highlight .sb { color: #93a1a1 } \/* Literal.String.Backtick *\/$/;"	kind:c	line:69
+sc	_sass/ext/_solarized-light.scss	/^.highlight .sc { color: #2aa198 } \/* Literal.String.Char *\/$/;"	kind:c	line:70
+sd	_sass/ext/_solarized-light.scss	/^.highlight .sd { color: #586e75 } \/* Literal.String.Doc *\/$/;"	kind:c	line:71
+se	_sass/ext/_solarized-light.scss	/^.highlight .se { color: #cb4b16 } \/* Literal.String.Escape *\/$/;"	kind:c	line:73
+section	_site/assets/css/style.css	/^section,$/;"	kind:s	line:81
+select	_site/assets/css/style.css	/^select {$/;"	kind:s	line:201
+select	_site/assets/css/style.css	/^select,$/;"	kind:s	line:189
+sh	_sass/ext/_solarized-light.scss	/^.highlight .sh { color: #586e75 } \/* Literal.String.Heredoc *\/$/;"	kind:c	line:74
+showNav	assets/css/style.scss	/^    {%- if site.texture.showNav -%}$/;"	kind:c	line:9
+showPicker	assets/css/style.scss	/^ {%- if site.texture.showPicker -%}$/;"	kind:c	line:6
+si	_sass/ext/_solarized-light.scss	/^.highlight .si { color: #2aa198 } \/* Literal.String.Interpol *\/$/;"	kind:c	line:75
+small	_site/assets/css/style.css	/^small {$/;"	kind:s	line:136
+smallMobileW	_sass/theme.scss	/^$smallMobileW: 480px;$/;"	kind:v	line:8
+social	_sass/theme.scss	/^	.social {$/;"	kind:c	line:75
+social	assets/css/style.scss	/^    .social i {$/;"	kind:c	line:101
+social	assets/css/style.scss	/^    .social i:hover {$/;"	kind:c	line:70
+sr	_sass/ext/_solarized-light.scss	/^.highlight .sr { color: #dc322f } \/* Literal.String.Regex *\/$/;"	kind:c	line:77
+ss	_sass/ext/_solarized-light.scss	/^.highlight .ss { color: #2aa198 } \/* Literal.String.Symbol *\/$/;"	kind:c	line:79
+strong	_site/assets/css/style.css	/^strong {$/;"	kind:s	line:118
+sub	_site/assets/css/style.css	/^sub {$/;"	kind:s	line:152
+sub	_site/assets/css/style.css	/^sub,$/;"	kind:s	line:140
+summary	_site/assets/css/style.css	/^summary {$/;"	kind:s	line:82
+sup	_site/assets/css/style.css	/^sup {$/;"	kind:s	line:141
+sup	_site/assets/css/style.css	/^sup {$/;"	kind:s	line:148
+svg:not(:root)	_site/assets/css/style.css	/^svg:not(:root) {$/;"	kind:s	line:160
+sx	_sass/ext/_solarized-light.scss	/^.highlight .sx { color: #2aa198 } \/* Literal.String.Other *\/$/;"	kind:c	line:76
+tabWidth	_sass/_begin.scss	/^$tabWidth: 768px;$/;"	kind:v	line:5
+table	_site/assets/css/style.css	/^table {$/;"	kind:s	line:270
+td	_site/assets/css/style.css	/^td,$/;"	kind:s	line:275
+template	_site/assets/css/style.css	/^template {$/;"	kind:s	line:100
+textarea	_site/assets/css/style.css	/^textarea {$/;"	kind:s	line:190
+textarea	_site/assets/css/style.css	/^textarea {$/;"	kind:s	line:262
+texture	README.md	/^# texture$/;"	kind:c	line:1
+texture	assets/css/style.scss	/^    {%- if site.texture.showNav -%}$/;"	kind:c	line:9
+texture	assets/css/style.scss	/^ {%- if site.texture.showPicker -%}$/;"	kind:c	line:6
+texture	texture.gemspec	/^  spec.name          = "texture"$/;"	kind:g	line:4
+texture-black	assets/css/style.scss	/^.texture-black {$/;"	kind:c	line:55
+texture-blue	assets/css/style.scss	/^.texture-blue {$/;"	kind:c	line:63
+texture-colors	assets/css/style.scss	/^    .texture-colors {$/;"	kind:c	line:34
+texture-green	assets/css/style.scss	/^.texture-green {$/;"	kind:c	line:87
+texture-picker	_includes/footer.html	/^<div id="texture-picker">$/;"	kind:I	line:13
+texture-picker	assets/css/style.scss	/^#texture-picker {$/;"	kind:i	line:7
+texture-purple	assets/css/style.scss	/^.texture-purple {$/;"	kind:c	line:83
+texture-purple	assets/css/style.scss	/^.texture-purple {$/;"	kind:c	line:96
+texture-red	assets/css/style.scss	/^.texture-red {$/;"	kind:c	line:79
+texture-red	assets/css/style.scss	/^.texture-red,$/;"	kind:c	line:95
+th	_site/assets/css/style.css	/^th {$/;"	kind:s	line:276
+vc	_sass/ext/_solarized-light.scss	/^.highlight .vc { color: #268bd2 } \/* Name.Variable.Class *\/$/;"	kind:c	line:81
+vg	_sass/ext/_solarized-light.scss	/^.highlight .vg { color: #268bd2 } \/* Name.Variable.Global *\/$/;"	kind:c	line:82
+vi	_sass/ext/_solarized-light.scss	/^.highlight .vi { color: #268bd2 } \/* Name.Variable.Instance *\/$/;"	kind:c	line:83
+video	_site/assets/css/style.css	/^img, embed, object, video {$/;"	kind:s	line:284
+video	_site/assets/css/style.css	/^video {$/;"	kind:s	line:89
+w	_sass/ext/_solarized-light.scss	/^.highlight .w { color: #586e75 } \/* Text.Whitespace *\/$/;"	kind:c	line:64
+window.onload	_site/assets/js/picker.js	/^window.onload = function() {$/;"	kind:f	line:5	variable:window	signature:()
+window.onload	assets/js/picker.js	/^window.onload = function() {$/;"	kind:f	line:5	variable:window	signature:()
+x	_sass/ext/_solarized-light.scss	/^.highlight .x { color: #cb4b16 } \/* Other *\/$/;"	kind:c	line:24
+{{ page.title | default: site.title }}	_includes/head.html	/^<title>{{ page.title | default: site.title }}<\/title>$/;"	kind:j	line:6
+{{ page.title }}	_includes/post_header.html	/^	<h1>{{ page.title }}<\/h1>$/;"	kind:h	line:3
+{{ post.title | escape }}	_layouts/home.html	/^				<h2 class="post-title">{{ post.title | escape }}<\/h2>$/;"	kind:i	line:11
+{{ site.texture.tagline }}	_includes/page_header.html	/^	<h2>{{ site.texture.tagline }}<\/h2>$/;"	kind:i	line:3
+{{ site.texture.title }}	_includes/page_header.html	/^	<h1>{{ site.texture.title }}<\/h1>$/;"	kind:h	line:2
