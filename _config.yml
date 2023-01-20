@@ -1,6 +1,6 @@
 title: Rui Teng's Blog
 author: tengrui
-email: tengrui.cc@gmail.com
+email: tengrui@live.cn
 description: > # this means to ignore newlines until "show_exerpts:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -16,7 +16,7 @@ sass:
 permalink: /posts/:title/
 texture:
   title: Rui Teng
-  tagline: 纸上得来终觉浅
+  tagline: 人间总有一两风 填我十万八千梦
   date_format: "%b %-d, %Y"
   style: blue
   showNav: false
