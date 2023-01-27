@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Oh My Zsh"
+date:   2023-01-27 12:55:00 +0800
+---
+"Oh My Zsh"是一个关于SSH终端theme和plugin的框架。
+
+通过选择不同的主题，可以获得不同风格的提示信息。
+
+通过选择不同的插件，可以获得不同的alias。例如安装sublime插件可以用st或者stt打开sublime。
+
+以前我想在bash环境下显示一些git信息，用的是“bash-git-prompt”这种工具。
+
+现在可以安装oh-my-zsh这个框架，自带了git的这个插件功能，而且还有各种alias。
+
+所以在使用Mac或者Linux的时候，我会先配置一下iTerm2或者Alacritty的主题，再安装和配置一下oh-my-zsh，然后就可以愉快地玩耍了。
