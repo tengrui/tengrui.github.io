@@ -16,7 +16,7 @@ sass:
 permalink: /posts/:title/
 texture:
   title: Rui Teng
-  tagline: 人间总有一两风 填我十万八千梦
+  tagline: 
   date_format: "%b %-d, %Y"
   style: blue
   showNav: false
